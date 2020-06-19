@@ -1,0 +1,1101 @@
+Molecule Name,Target,Gene,Uniprot,CHEMBL,Target Class,Probability,Active 2D/3D
+Bromotopsentin,Alpha-1b adrenergic receptor,ADRA1B,P35368,CHEMBL232,Family A G protein-coupled receptor,1,150 /  5     
+Bromotopsentin,Alpha-1a adrenergic receptor,ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0.6493489866,256 /  4     
+Bromotopsentin,Butyrylcholinesterase,BCHE,P06276,CHEMBL1914,Hydrolase,0.1132859535,85 /  0     
+Bromotopsentin,Acetylcholinesterase,ACHE,P22303,CHEMBL220,Hydrolase,0.1132859535,257 /  0     
+Bromotopsentin,Monoamine oxidase A,MAOA,P21397,CHEMBL1951,Oxidoreductase,0.1132859535,75 /  0     
+Bromotopsentin,Vanilloid receptor,TRPV1,Q8NER1,CHEMBL4794,Voltage-gated ion channel,0.1132859535,434 /  0     
+Bromotopsentin,Beta amyloid A4 protein,APP,P05067,CHEMBL2487,Membrane receptor,0.1132859535,59 /  0     
+Bromotopsentin,Thromboxane A2 receptor,TBXA2R,P21731,CHEMBL2069,Family A G protein-coupled receptor,0.1132859535,23 /  0     
+Bromotopsentin,1-acylglycerol-3-phosphate O-acyltransferase beta,AGPAT2,O15120,CHEMBL4772,Enzyme,0.1132859535,11 /  0     
+Bromotopsentin,Glutamate NMDA receptor; GRIN1/GRIN2B,GRIN1 GRIN2B,Q05586 Q13224,CHEMBL1907603,Ligand-gated ion channel,0.1132859535,27 /  0     
+Bromotopsentin,Carbonic anhydrase II,CA2,P00918,CHEMBL205,Lyase,0.1132859535,432 /  0     
+Bromotopsentin,Carbonic anhydrase I,CA1,P00915,CHEMBL261,Lyase,0.1132859535,401 /  0     
+Bromotopsentin,Carbonic anhydrase XII,CA12,O43570,CHEMBL3242,Lyase,0.1132859535,230 /  0     
+Bromotopsentin,Carbonic anhydrase IX,CA9,Q16790,CHEMBL3594,Lyase,0.1132859535,295 /  0     
+Bromotopsentin,Cytochrome P450 11B1,CYP11B1,P15538,CHEMBL1908,Cytochrome P450,0.1132859535,78 /  0     
+Bromotopsentin,Cytochrome P450 11B2,CYP11B2,P19099,CHEMBL2722,Cytochrome P450,0.1132859535,78 /  0     
+Bromotopsentin,Cytochrome P450 17A1,CYP17A1,P05093,CHEMBL3522,Cytochrome P450,0.1132859535,40 /  0     
+Bromotopsentin,Aldose reductase,AKR1B1,P15121,CHEMBL1900,Enzyme,0.1132859535,59 /  0     
+Bromotopsentin,Lysine-specific demethylase 4B,KDM4B,O94953,CHEMBL3313832,Eraser,0.1132859535,16 /  0     
+Bromotopsentin,Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0.1132859535,551 /  0     
+Bromotopsentin,Aldo-keto reductase family 1 member B10,AKR1B10,O60218,CHEMBL5983,Enzyme,0.1132859535,19 /  0     
+Bromotopsentin,Cannabinoid receptor 1,CNR1,P21554,CHEMBL218,Family A G protein-coupled receptor,0.1132859535,187 /  0     
+Bromotopsentin,Heat shock protein HSP 90-beta,HSP90AB1,P08238,CHEMBL4303,Other cytosolic protein,0.1132859535,109 /  0     
+Bromotopsentin,Arachidonate 15-lipoxygenase,ALOX15,P16050,CHEMBL2903,Enzyme,0.1132859535,26 /  0     
+Bromotopsentin,Arachidonate 12-lipoxygenase,ALOX12,P18054,CHEMBL3687,Enzyme,0.1132859535,21 /  0     
+Bromotopsentin,Sphingosine 1-phosphate receptor Edg-3,S1PR3,Q99500,CHEMBL3892,Family A G protein-coupled receptor,0.1132859535,68 /  0     
+Bromotopsentin,Thrombin and coagulation factor X,F10,P00742,CHEMBL244,Protease,0.1132859535,717 /  0     
+Bromotopsentin,Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0.1132859535,51 /  0     
+Bromotopsentin,Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.1132859535,381 /  0     
+Bromotopsentin,Cholecystokinin B receptor,CCKBR,P32239,CHEMBL298,Family A G protein-coupled receptor,0.1132859535,83 /  0     
+Bromotopsentin,Serine/threonine-protein kinase WEE1,WEE1,P30291,CHEMBL5491,Kinase,0.1132859535,89 /  0     
+Bromotopsentin,Histone deacetylase 5,HDAC5,Q9UQL6,CHEMBL2563,Eraser,0.1132859535,38 /  0     
+Bromotopsentin,Histone deacetylase 7,HDAC7,Q8WUI4,CHEMBL2716,Eraser,0.1132859535,46 /  0     
+Bromotopsentin,Histone deacetylase 8,HDAC8,Q9BY41,CHEMBL3192,Eraser,0.1132859535,347 /  0     
+Bromotopsentin,Histone deacetylase 11,HDAC11,Q96DB2,CHEMBL3310,Eraser,0.1132859535,53 /  0     
+Bromotopsentin,Histone deacetylase 9,HDAC9,Q9UKV0,CHEMBL4145,Eraser,0.1132859535,38 /  0     
+Bromotopsentin,Histone deacetylase 10,HDAC10,Q969S8,CHEMBL5103,Eraser,0.1132859535,56 /  0     
+Bromotopsentin,Histone acetyltransferase p300,EP300,Q09472,CHEMBL3784,Writer,0.1132859535,11 /  0     
+Bromotopsentin,Signal transducer and activator of transcription 6,STAT6,P42226,CHEMBL5401,Transcription factor,0.1132859535,15 /  0     
+Bromotopsentin,Thymidylate synthase   (by homology),TYMS,P04818,CHEMBL1952,Transferase,0.1132859535,67 /  0     
+Bromotopsentin,Poly [ADP-ribose] polymerase-1,PARP1,P09874,CHEMBL3105,Enzyme,0.1132859535,383 /  0     
+Bromotopsentin,Tyrosine-protein kinase ABL,ABL1,P00519,CHEMBL1862,Kinase,0.1132859535,103 /  0     
+Bromotopsentin,Tyrosine-protein kinase YES,YES1,P07947,CHEMBL2073,Kinase,0.1132859535,7 /  0     
+Bromotopsentin,Tyrosine-protein kinase LCK,LCK,P06239,CHEMBL258,Kinase,0.1132859535,112 /  0     
+Bromotopsentin,Ephrin receptor,EPHB4,P54760,CHEMBL5147,Kinase,0.1132859535,44 /  0     
+Bromotopsentin,Catechol O-methyltransferase,COMT,P21964,CHEMBL2023,Transferase,0.1132859535,6 /  0     
+Bromotopsentin,Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0.1132859535,354 /  0     
+Bromotopsentin,Matrix metalloproteinase 1,MMP1,P03956,CHEMBL332,Protease,0.1132859535,346 /  0     
+Bromotopsentin,Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0.1132859535,440 /  0     
+Bromotopsentin,5-lipoxygenase activating protein,ALOX5AP,P20292,CHEMBL4550,Other cytosolic protein,0.1132859535,419 /  0     
+Bromotopsentin,Receptor protein-tyrosine kinase erbB-2,ERBB2,P04626,CHEMBL1824,Kinase,0.1132859535,93 /  0     
+Bromotopsentin,Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0.1132859535,349 /  0     
+Bromotopsentin,Cytochrome P450 2C9,CYP2C9,P11712,CHEMBL3397,Cytochrome P450,0.1132859535,15 /  0     
+Bromotopsentin,Cytochrome P450 3A4,CYP3A4,P08684,CHEMBL340,Cytochrome P450,0.1132859535,18 /  0     
+Bromotopsentin,Cytochrome P450 2C19,CYP2C19,P33261,CHEMBL3622,Cytochrome P450,0.1132859535,7 /  0     
+Bromotopsentin,Serine/threonine-protein kinase Nek1,NEK1,Q96PY6,CHEMBL5855,Kinase,0.1132859535,22 /  0     
+Bromotopsentin,Phosphodiesterase 5A,PDE5A,O76074,CHEMBL1827,Phosphodiesterase,0.1132859535,72 /  0     
+Bromotopsentin,Macrophage migration inhibitory factor,MIF,P14174,CHEMBL2085,Enzyme,0.1132859535,28 /  0     
+Bromotopsentin,Monoglyceride lipase,MGLL,Q99685,CHEMBL4191,Enzyme,0.1132859535,53 /  0     
+Bromotopsentin,Voltage-gated potassium channel subunit Kv1.5,KCNA5,P22460,CHEMBL4306,Voltage-gated ion channel,0.1132859535,40 /  0     
+Bromotopsentin,Voltage-gated potassium channel subunit Kv1.3,KCNA3,P22001,CHEMBL4633,Voltage-gated ion channel,0.1132859535,21 /  0     
+Bromotopsentin,G-protein coupled receptor 55,GPR55,Q9Y2T6,CHEMBL1075322,Family A G protein-coupled receptor,0.1132859535,11 /  0     
+Bromotopsentin,Serotonin 1b (5-HT1b) receptor,HTR1B,P28222,CHEMBL1898,Family A G protein-coupled receptor,0.1132859535,198 /  0     
+Bromotopsentin,SUMO-activating enzyme,SAE1 UBA2,Q9UBE0 Q9UBT2,CHEMBL2095174,Enzyme,0.1132859535,6 /  0     
+Bromotopsentin,Epoxide hydratase,EPHX2,P34913,CHEMBL2409,Protease,0.1132859535,102 /  0     
+Bromotopsentin,Cannabinoid receptor 2,CNR2,P34972,CHEMBL253,Family A G protein-coupled receptor,0.1132859535,157 /  0     
+Bromotopsentin,Matrix metalloproteinase 3,MMP3,P08254,CHEMBL283,Protease,0.1132859535,242 /  0     
+Bromotopsentin,"Nitric-oxide synthase, brain",NOS1,P29475,CHEMBL3568,Enzyme,0.1132859535,67 /  0     
+Bromotopsentin,"Nitric-oxide synthase, endothelial",NOS3,P29474,CHEMBL4803,Enzyme,0.1132859535,21 /  0     
+Bromotopsentin,Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET,RET,P07949,CHEMBL2041,Kinase,0.1132859535,46 /  0     
+Bromotopsentin,Muscarinic acetylcholine receptor M3,CHRM3,P20309,CHEMBL245,Family A G protein-coupled receptor,0.1132859535,105 /  0     
+Bromotopsentin,Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0.1132859535,12 /  0     
+Bromotopsentin,"Indoleamine 2,3-dioxygenase",IDO1,P14902,CHEMBL4685,Enzyme,0.1132859535,22 /  0     
+Bromotopsentin,Androgen Receptor,AR,P10275,CHEMBL1871,Nuclear receptor,0.1132859535,85 /  0     
+Bromotopsentin,Mineralocorticoid receptor,NR3C2,P08235,CHEMBL1994,Nuclear receptor,0.1132859535,62 /  0     
+Bromotopsentin,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0.1132859535,207 /  0     
+Bromotopsentin,Progesterone receptor,PGR,P06401,CHEMBL208,Nuclear receptor,0.1132859535,68 /  0     
+Bromotopsentin,Testis-specific androgen-binding protein,SHBG,P04278,CHEMBL3305,Secreted protein,0.1132859535,4 /  0     
+Bromotopsentin,LDL-associated phospholipase A2,PLA2G7,Q13093,CHEMBL3514,Enzyme,0.1132859535,26 /  0     
+Bromotopsentin,Neurokinin 3 receptor,TACR3,P29371,CHEMBL4429,Family A G protein-coupled receptor,0.1132859535,61 /  0     
+Bromotopsentin,Hematopoietic prostaglandin D synthase,HPGDS,O60760,CHEMBL5879,Transferase,0.1132859535,23 /  0     
+Bromotopsentin,Serine/threonine-protein kinase Aurora-A,AURKA,O14965,CHEMBL4722,Kinase,0.1132859535,304 /  0     
+Bromotopsentin,Platelet-derived growth factor receptor beta,PDGFRB,P09619,CHEMBL1913,Kinase,0.1132859535,88 /  0     
+Bromotopsentin,Tyrosinase,TYR,P14679,CHEMBL1973,Oxidoreductase,0.1132859535,5 /  0     
+Bromotopsentin,Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0.1132859535,72 /  0     
+Bromotopsentin,Cytochrome P450 26A1,CYP26A1,O43174,CHEMBL5141,Cytochrome P450,0.1132859535,17 /  0     
+Bromotopsentin,Carbonic anhydrase VII,CA7,P43166,CHEMBL2326,Lyase,0.1132859535,45 /  0     
+Bromotopsentin,Carbonic anhydrase VI,CA6,P23280,CHEMBL3025,Lyase,0.1132859535,11 /  0     
+Bromotopsentin,Carbonic anhydrase XIV,CA14,Q9ULX7,CHEMBL3510,Lyase,0.1132859535,38 /  0     
+Bromotopsentin,Carbonic anhydrase XIII   (by homology),CA13,Q8N1Q1,CHEMBL3912,Lyase,0.1132859535,12 /  0     
+Bromotopsentin,Carbonic anhydrase VB,CA5B,Q9Y2D0,CHEMBL3969,Lyase,0.1132859535,11 /  0     
+Bromotopsentin,Carbonic anhydrase VA,CA5A,P35218,CHEMBL4789,Lyase,0.1132859535,15 /  0     
+Bromotopsentin,Apoptosis regulator Bcl-2,BCL2,P10415,CHEMBL4860,Other ion channel,0.1132859535,48 /  0     
+Bromotopsentin,Sterol regulatory element-binding protein 2,SREBF2,Q12772,CHEMBL1795166,Unclassified protein,0.1132859535,3 /  0     
+Bromotopsentin,Serine/threonine-protein kinase Aurora-B,AURKB,Q96GD4,CHEMBL2185,Kinase,0.1132859535,188 /  0     
+Bromotopsentin,Rho-associated protein kinase 2,ROCK2,O75116,CHEMBL2973,Kinase,0.1132859535,341 /  0     
+Bromotopsentin,Rho-associated protein kinase 1,ROCK1,Q13464,CHEMBL3231,Kinase,0.1132859535,125 /  0     
+Bromotopsentin,Interleukin-1 receptor-associated kinase 4,IRAK4,Q9NWZ3,CHEMBL3778,Kinase,0.1132859535,13 /  0     
+Bromotopsentin,Leukotriene B4 receptor 1,LTB4R,Q15722,CHEMBL3911,Family A G protein-coupled receptor,0.1132859535,8 /  0     
+Bromotopsentin,Sphingosine kinase 1,SPHK1,Q9NYA1,CHEMBL4394,Enzyme,0.1132859535,7 /  0     
+Cissacapine,Dopamine D2 receptor   (by homology),DRD2,P14416,CHEMBL217,Family A G protein-coupled receptor,0.0456882472,235 /  274     
+Cissacapine,Multidrug and toxin extrusion protein 1,SLC47A1,Q96FL8,CHEMBL1743126,Electrochemical transporter,0.0358982055,0 /  1     
+Cissacapine,Neuronal acetylcholine receptor; alpha3/beta4,CHRNA3 CHRNB4,P32297 P30926,CHEMBL1907594,Ligand-gated ion channel,0.0358982055,0 /  2     
+Cissacapine,Neuronal acetylcholine receptor; alpha2/beta4,CHRNB4 CHRNA2,P30926 Q15822,CHEMBL2109230,Ligand-gated ion channel,0.0358982055,0 /  1     
+Cissacapine,Neuronal acetylcholine receptor; alpha3/beta2,CHRNA3 CHRNB2,P32297 P17787,CHEMBL2109234,Ligand-gated ion channel,0.0358982055,0 /  1     
+Cissacapine,Dopamine transporter   (by homology),SLC6A3,Q01959,CHEMBL238,Electrochemical transporter,0.0358982055,17 /  30     
+Cissacapine,Phosphodiesterase 1A,PDE1A,P54750,CHEMBL3421,Phosphodiesterase,0.0358982055,5 /  1     
+Cissacapine,Serotonin 1a (5-HT1a) receptor,HTR1A,P08908,CHEMBL214,Family A G protein-coupled receptor,0.0358982055,130 /  85     
+Cissacapine,Butyrylcholinesterase,BCHE,P06276,CHEMBL1914,Hydrolase,0.0358982055,37 /  10     
+Cissacapine,Neuronal acetylcholine receptor; alpha4/beta2,CHRNA4 CHRNB2,P43681 P17787,CHEMBL1907589,Ligand-gated ion channel,0.0358982055,1 /  8     
+Cissacapine,Dopamine D3 receptor,DRD3,P35462,CHEMBL234,Family A G protein-coupled receptor,0.0358982055,163 /  67     
+Cissacapine,Histone deacetylase 2,HDAC2,Q92769,CHEMBL1937,Eraser,0.0358982055,118 /  0     
+Cissacapine,Histone deacetylase 1,HDAC1,Q13547,CHEMBL325,Eraser,0.0358982055,364 /  0     
+Cissacapine,Bradykinin B2 receptor,BDKRB2,P30411,CHEMBL3157,Family A G protein-coupled receptor,0.0358982055,105 /  0     
+Cissacapine,G-protein coupled receptor 55,GPR55,Q9Y2T6,CHEMBL1075322,Family A G protein-coupled receptor,0.0358982055,19 /  0     
+Cissacapine,Bromodomain-containing protein 4,BRD4,O60885,CHEMBL1163125,Reader,0.0358982055,77 /  0     
+Cissacapine,CREB-binding protein/p53,CREBBP,Q92793,CHEMBL5747,Writer,0.0358982055,28 /  0     
+Cissacapine,TGF-beta receptor type I,TGFBR1,P36897,CHEMBL4439,Kinase,0.0358982055,139 /  0     
+Cissacapine,Neurokinin 2 receptor,TACR2,P21452,CHEMBL2327,Family A G protein-coupled receptor,0.0358982055,52 /  0     
+Cissacapine,Dopamine D1 receptor,DRD1,P21728,CHEMBL2056,Family A G protein-coupled receptor,0.0358982055,25 /  111     
+Cissacapine,Protein-glutamine gamma-glutamyltransferase,TGM2,P21980,CHEMBL2730,Enzyme,0.0358982055,69 /  0     
+Cissacapine,Protein-glutamine gamma-glutamyltransferase K,TGM1,P22735,CHEMBL2810,Enzyme,0.0358982055,14 /  0     
+Cissacapine,Coagulation factor XIII,F13A1,P00488,CHEMBL4530,Aminoacyltransferase,0.0358982055,13 /  0     
+Cissacapine,Gonadotropin-releasing hormone receptor,GNRHR,P30968,CHEMBL1855,Family A G protein-coupled receptor,0.0358982055,52 /  0     
+Cissacapine,Vasopressin V1b receptor,AVPR1B,P47901,CHEMBL1921,Family A G protein-coupled receptor,0.0358982055,7 /  0     
+Cissacapine,HLA class II histocompatibility antigen DRB1-1,HLA-DRB1,P04229,CHEMBL1943,Surface antigen,0.0358982055,23 /  0     
+Cissacapine,Sigma opioid receptor,SIGMAR1,Q99720,CHEMBL287,Membrane receptor,0.0358982055,27 /  29     
+Cissacapine,Motilin receptor,MLNR,O43193,CHEMBL2203,Family A G protein-coupled receptor,0.0358982055,28 /  0     
+Cissacapine,Phosphodiesterase 10A,PDE10A,Q9Y233,CHEMBL4409,Phosphodiesterase,0.0358982055,790 /  0     
+Cissacapine,Nerve growth factor receptor Trk-A,NTRK1,P04629,CHEMBL2815,Kinase,0.0358982055,259 /  0     
+Cissacapine,"Nitric oxide synthase, inducible   (by homology)",NOS2,P35228,CHEMBL4481,Enzyme,0.0358982055,59 /  0     
+Cissacapine,Serine/threonine-protein kinase Aurora-B,AURKB,Q96GD4,CHEMBL2185,Kinase,0.0358982055,201 /  0     
+Cissacapine,Tyrosine-protein kinase SYK,SYK,P43405,CHEMBL2599,Kinase,0.0358982055,353 /  0     
+Cissacapine,Ribosomal protein S6 kinase 1,RPS6KB1,P23443,CHEMBL4501,Kinase,0.0358982055,119 /  0     
+Cissacapine,Serine/threonine-protein kinase Aurora-A,AURKA,O14965,CHEMBL4722,Kinase,0.0358982055,369 /  0     
+Cissacapine,Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0.0358982055,247 /  0     
+Cissacapine,Adenosine A1 receptor,ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0.0358982055,293 /  0     
+Cissacapine,Adenosine A2a receptor,ADORA2A,P29274,CHEMBL251,Family A G protein-coupled receptor,0.0358982055,248 /  0     
+Cissacapine,Cathepsin K,CTSK,P43235,CHEMBL268,Protease,0.0358982055,211 /  0     
+Cissacapine,Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0.0358982055,637 /  0     
+Cissacapine,Carbonic anhydrase IV,CA4,P22748,CHEMBL3729,Lyase,0.0358982055,11 /  0     
+Cissacapine,Complement factor D,CFD,P00746,CHEMBL2176771,Protease,0.0358982055,284 /  0     
+Cissacapine,MAP kinase p38 alpha,MAPK14,Q16539,CHEMBL260,Kinase,0.0358982055,648 /  0     
+Cissacapine,Transitional endoplasmic reticulum ATPase,VCP,P55072,CHEMBL1075145,Primary active transporter,0.0358982055,33 /  0     
+Cissacapine,Neuropeptides B/W receptor type 1,NPBWR1,P48145,CHEMBL1293293,Family A G protein-coupled receptor,0.0358982055,24 /  0     
+Cissacapine,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0.0358982055,148 /  0     
+Cissacapine,3-phosphoinositide dependent protein kinase-1,PDPK1,O15530,CHEMBL2534,Kinase,0.0358982055,102 /  0     
+Cissacapine,Tyrosine-protein kinase receptor FLT3,FLT3,P36888,CHEMBL1974,Kinase,0.0358982055,120 /  0     
+Cissacapine,Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,O96020 P24941 P24864,CHEMBL2094126,Other cytosolic protein,0.0358982055,48 /  0     
+Cissacapine,Melanocortin receptor 4,MC4R,P32245,CHEMBL259,Family A G protein-coupled receptor,0.0358982055,35 /  0     
+Cissacapine,Cyclin-dependent kinase 4,CDK4,P11802,CHEMBL331,Kinase,0.0358982055,53 /  0     
+Cissacapine,Bromodomain-containing protein 2,BRD2,P25440,CHEMBL1293289,Reader,0.0358982055,44 /  0     
+Cissacapine,Bromodomain-containing protein 3,BRD3,Q15059,CHEMBL1795186,Reader,0.0358982055,45 /  0     
+Cissacapine,Phosphodiesterase 3,PDE3A,Q14432,CHEMBL241,Phosphodiesterase,0.0358982055,61 /  0     
+Cissacapine,Phosphodiesterase 4A,PDE4A,P27815,CHEMBL254,Phosphodiesterase,0.0358982055,113 /  0     
+Cissacapine,Receptor protein-tyrosine kinase erbB-2,ERBB2,P04626,CHEMBL1824,Kinase,0.0358982055,99 /  0     
+Cissacapine,Epidermal growth factor receptor erbB1,EGFR,P00533,CHEMBL203,Kinase,0.0358982055,309 /  0     
+Cissacapine,Peptidyl-prolyl cis-trans isomerase FKBP5,FKBP5,Q13451,CHEMBL2052031,Enzyme,0.0358982055,30 /  0     
+Cissacapine,Coagulation factor VII/tissue factor,F3 F7,P13726 P08709,CHEMBL2095194,Protease,0.0358982055,7 /  0     
+Cissacapine,Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0.0358982055,139 /  0     
+Cissacapine,Phosphodiesterase 4D,PDE4D,Q08499,CHEMBL288,Phosphodiesterase,0.0358982055,76 /  0     
+Cissacapine,Tyrosine-protein kinase HCK,HCK,P08631,CHEMBL3234,Kinase,0.0358982055,36 /  0     
+Cissacapine,MAP kinase p38 gamma,MAPK12,P53778,CHEMBL4674,Kinase,0.0358982055,30 /  0     
+Cissacapine,Poly [ADP-ribose] polymerase 2,PARP2,Q9UGN5,CHEMBL5366,Enzyme,0.0358982055,6 /  0     
+Cissacapine,Tankyrase-2,TNKS2,Q9H2K2,CHEMBL6154,Enzyme,0.0358982055,27 /  0     
+Cissacapine,Tankyrase-1,TNKS,O95271,CHEMBL6164,Enzyme,0.0358982055,48 /  0     
+Cissacapine,Serotonin 4 (5-HT4) receptor,HTR4,Q13639,CHEMBL1875,Family A G protein-coupled receptor,0.0358982055,18 /  0     
+Cissacapine,Adenosine A2b receptor,ADORA2B,P29275,CHEMBL255,Family A G protein-coupled receptor,0.0358982055,96 /  0     
+Cissacapine,Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0.0358982055,505 /  0     
+Cissacapine,Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0.0358982055,172 /  0     
+Cissacapine,Sodium channel protein type V alpha subunit,SCN5A,Q14524,CHEMBL1980,Voltage-gated ion channel,0.0358982055,23 /  0     
+Cissacapine,Histone deacetylase 3/NCoR1,NCOR1 HDAC3,O75376 O15379,CHEMBL3038484,Eraser,0.0358982055,7 /  0     
+Cissacapine,DNA-dependent protein kinase,PRKDC,P78527,CHEMBL3142,Kinase,0.0358982055,37 /  0     
+Cissacapine,Sodium channel protein type IX alpha subunit,SCN9A,Q15858,CHEMBL4296,Voltage-gated ion channel,0.0358982055,126 /  0     
+Cissacapine,Alpha-1d adrenergic receptor,ADRA1D,P25100,CHEMBL223,Family A G protein-coupled receptor,0.0358982055,61 /  2     
+Cissacapine,Alpha-1a adrenergic receptor,ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0.0358982055,78 /  11     
+Cissacapine,Alpha-1b adrenergic receptor,ADRA1B,P35368,CHEMBL232,Family A G protein-coupled receptor,0.0358982055,57 /  7     
+Cissacapine,Phosphodiesterase 3B,PDE3B,Q13370,CHEMBL290,Phosphodiesterase,0.0358982055,58 /  0     
+Cissacapine,Hexokinase type IV,GCK,P35557,CHEMBL3820,Enzyme,0.0358982055,62 /  0     
+Cissacapine,Voltage-gated potassium channel subunit Kv1.5,KCNA5,P22460,CHEMBL4306,Voltage-gated ion channel,0.0358982055,75 /  0     
+Cissacapine,Serotonin 2a (5-HT2a) receptor,HTR2A,P28223,CHEMBL224,Family A G protein-coupled receptor,0.0358982055,195 /  50     
+Cissacapine,Corticotropin releasing factor receptor 1,CRHR1,P34998,CHEMBL1800,Family B G protein-coupled receptor,0.0358982055,208 /  0     
+Cissacapine,Calpain 2,CAPN2,P17655,CHEMBL2382,Protease,0.0358982055,44 /  0     
+Cissacapine,Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0.0358982055,189 /  0     
+Cissacapine,Matrix metalloproteinase 3,MMP3,P08254,CHEMBL283,Protease,0.0358982055,100 /  0     
+Cissacapine,Tyrosine-protein kinase ITK/TSK,ITK,Q08881,CHEMBL2959,Kinase,0.0358982055,155 /  0     
+Cissacapine,Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0.0358982055,168 /  0     
+Cissacapine,Matrix metalloproteinase 1,MMP1,P03956,CHEMBL332,Protease,0.0358982055,165 /  0     
+Cissacapine,Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0.0358982055,197 /  0     
+Cissacapine,Matrix metalloproteinase 14,MMP14,P50281,CHEMBL3869,Protease,0.0358982055,42 /  0     
+Cissacapine,Matrix metalloproteinase 7,MMP7,P09237,CHEMBL4073,Protease,0.0358982055,30 /  0     
+Cissacapine,Phosphodiesterase 5A,PDE5A,O76074,CHEMBL1827,Phosphodiesterase,0.0358982055,206 /  0     
+Cissacapine,Macrophage colony stimulating factor receptor,CSF1R,P07333,CHEMBL1844,Kinase,0.0358982055,143 /  0     
+Cissacapine,Appetite-regulating hormone,GHRL,Q9UBU3,CHEMBL1921664,Unclassified protein,0.0358982055,39 /  0     
+Cissacapine,Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,O14920,CHEMBL1991,Kinase,0.0358982055,71 /  0     
+Cissacapine,Type-1 angiotensin II receptor,AGTR1,P30556,CHEMBL227,Family A G protein-coupled receptor,0.0358982055,270 /  0     
+Cissacapine,Platelet activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0.0358982055,83 /  0     
+Cissacapine,Inhibitor of NF-kappa-B kinase (IKK),CHUK,O15111,CHEMBL3476,Kinase,0.0358982055,20 /  0     
+Cissacapine,Chymase,CMA1,P23946,CHEMBL4068,Protease,0.0358982055,54 /  0     
+Cissacapine,Proteasome Macropain subunit MB1,PSMB5,P28074,CHEMBL4662,Protease,0.0358982055,65 /  0     
+20(29)-Lupene-3β-isoferulate,Leukocyte elastase,ELANE,P08246,CHEMBL248,Protease,0.122098887,0 /  2     
+20(29)-Lupene-3β-isoferulate,DNA polymerase beta   (by homology),POLB,P06746,CHEMBL2392,Enzyme,0.0745649542,0 /  3     
+20(29)-Lupene-3β-isoferulate,Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0.0745649542,0 /  23     
+20(29)-Lupene-3β-isoferulate,Arachidonate 5-lipoxygenase,ALOX5,P09917,CHEMBL215,Oxidoreductase,0.0745649542,0 /  39     
+20(29)-Lupene-3β-isoferulate,Endothelin receptor ET-A   (by homology),EDNRA,P25101,CHEMBL252,Family A G protein-coupled receptor,0.0745649542,0 /  17     
+20(29)-Lupene-3β-isoferulate,Monoamine oxidase B,MAOB,P27338,CHEMBL2039,Oxidoreductase,0.0745649542,0 /  17     
+20(29)-Lupene-3β-isoferulate,Dual-specificity tyrosine-phosphorylation regulated kinase 1A,DYRK1A,Q13627,CHEMBL2292,Kinase,0.0745649542,0 /  8     
+20(29)-Lupene-3β-isoferulate,Dual specificty protein kinase CLK1,CLK1,P49759,CHEMBL4224,Kinase,0.0745649542,0 /  3     
+20(29)-Lupene-3β-isoferulate,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,DYRK1B,Q9Y463,CHEMBL5543,Kinase,0.0745649542,0 /  7     
+20(29)-Lupene-3β-isoferulate,Aldose reductase,AKR1B1,P15121,CHEMBL1900,Enzyme,0.0745649542,0 /  23     
+20(29)-Lupene-3β-isoferulate,Aldo-keto reductase family 1 member B10,AKR1B10,O60218,CHEMBL5983,Enzyme,0.0745649542,0 /  18     
+20(29)-Lupene-3β-isoferulate,Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0.0745649542,0 /  3     
+20(29)-Lupene-3β-isoferulate,Matrix metalloproteinase 12,MMP12,P39900,CHEMBL4393,Protease,0.0745649542,0 /  5     
+20(29)-Lupene-3β-isoferulate,Transthyretin,TTR,P02766,CHEMBL3194,Secreted protein,0.0745649542,0 /  3     
+20(29)-Lupene-3β-isoferulate,Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0.0745649542,0 /  46     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase VII,CA7,P43166,CHEMBL2326,Lyase,0.0745649542,0 /  24     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase VI,CA6,P23280,CHEMBL3025,Lyase,0.0745649542,0 /  17     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase XII,CA12,O43570,CHEMBL3242,Lyase,0.0745649542,0 /  34     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase XIV,CA14,Q9ULX7,CHEMBL3510,Lyase,0.0745649542,0 /  24     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase IX,CA9,Q16790,CHEMBL3594,Lyase,0.0745649542,0 /  38     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase XIII   (by homology),CA13,Q8N1Q1,CHEMBL3912,Lyase,0.0745649542,0 /  18     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase VB,CA5B,Q9Y2D0,CHEMBL3969,Lyase,0.0745649542,0 /  16     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase VA,CA5A,P35218,CHEMBL4789,Lyase,0.0745649542,0 /  21     
+20(29)-Lupene-3β-isoferulate,Low molecular weight phosphotyrosine protein phosphatase,ACP1,P24666,CHEMBL4903,Phosphatase,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Phosphodiesterase 5A,PDE5A,O76074,CHEMBL1827,Phosphodiesterase,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Phosphodiesterase 4D,PDE4D,Q08499,CHEMBL288,Phosphodiesterase,0.0745649542,0 /  2     
+20(29)-Lupene-3β-isoferulate,Phosphodiesterase 9A,PDE9A,O76083,CHEMBL3535,Phosphodiesterase,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Phosphodiesterase 1B,PDE1B,Q01064,CHEMBL4425,Phosphodiesterase,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Receptor protein-tyrosine kinase erbB-2,ERBB2,P04626,CHEMBL1824,Kinase,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Tyrosine-protein kinase FYN,FYN,P06241,CHEMBL1841,Kinase,0.0745649542,0 /  2     
+20(29)-Lupene-3β-isoferulate,Epidermal growth factor receptor erbB1,EGFR,P00533,CHEMBL203,Kinase,0.0745649542,0 /  18     
+20(29)-Lupene-3β-isoferulate,Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.0745649542,0 /  19     
+20(29)-Lupene-3β-isoferulate,Cyclooxygenase-1,PTGS1,P23219,CHEMBL221,Oxidoreductase,0.0745649542,0 /  10     
+20(29)-Lupene-3β-isoferulate,Norepinephrine transporter,SLC6A2,P23975,CHEMBL222,Electrochemical transporter,0.0745649542,0 /  5     
+20(29)-Lupene-3β-isoferulate,Tyrosine-protein kinase LCK,LCK,P06239,CHEMBL258,Kinase,0.0745649542,0 /  2     
+20(29)-Lupene-3β-isoferulate,MAP kinase ERK2,MAPK1,P28482,CHEMBL4040,Kinase,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Aldo-keto-reductase family 1 member C3,AKR1C3,P42330,CHEMBL4681,Enzyme,0.0745649542,0 /  32     
+20(29)-Lupene-3β-isoferulate,Aldo-keto reductase family 1 member C4,AKR1C4,P17516,CHEMBL4999,Enzyme,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Aldo-keto reductase family 1 member C2,AKR1C2,P52895,CHEMBL5847,Enzyme,0.0745649542,0 /  1     
+20(29)-Lupene-3β-isoferulate,Neurokinin 3 receptor,TACR3,P29371,CHEMBL4429,Family A G protein-coupled receptor,0,7 /  0     
+20(29)-Lupene-3β-isoferulate,Dual-specificity tyrosine-phosphorylation regulated kinase 2,DYRK2,Q92630,CHEMBL4376,Kinase,0,0 /  4     
+20(29)-Lupene-3β-isoferulate,Beta amyloid A4 protein,APP,P05067,CHEMBL2487,Membrane receptor,0,1 /  38     
+20(29)-Lupene-3β-isoferulate,Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0,1 /  7     
+20(29)-Lupene-3β-isoferulate,Neurokinin 1 receptor,TACR1,P25103,CHEMBL249,Family A G protein-coupled receptor,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 6,HDAC6,Q9UBN7,CHEMBL1865,Eraser,0,71 /  0     
+20(29)-Lupene-3β-isoferulate,Protein kinase C alpha,PRKCA,P17252,CHEMBL299,Kinase,0,0 /  29     
+20(29)-Lupene-3β-isoferulate,Serotonin 1a (5-HT1a) receptor,HTR1A,P08908,CHEMBL214,Family A G protein-coupled receptor,0,0 /  4     
+20(29)-Lupene-3β-isoferulate,Toll-like receptor 4   (by homology),TLR4,O00206,CHEMBL5255,Toll-like and Il-1 receptors,0,0 /  7     
+20(29)-Lupene-3β-isoferulate,Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,O14920,CHEMBL1991,Kinase,0,0 /  3     
+20(29)-Lupene-3β-isoferulate,Phosphodiesterase 2A,PDE2A,O00408,CHEMBL2652,Phosphodiesterase,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,DNA topoisomerase II alpha,TOP2A,P11388,CHEMBL1806,Isomerase,0,0 /  15     
+20(29)-Lupene-3β-isoferulate,Monoglyceride lipase,MGLL,Q99685,CHEMBL4191,Enzyme,0,0 /  2     
+20(29)-Lupene-3β-isoferulate,Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0,1 /  5     
+20(29)-Lupene-3β-isoferulate,P-glycoprotein 1,ABCB1,P08183,CHEMBL4302,Primary active transporter,0,0 /  58     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 8,HDAC8,Q9BY41,CHEMBL3192,Eraser,0,11 /  0     
+20(29)-Lupene-3β-isoferulate,Protein kinase C delta   (by homology),PRKCD,Q05655,CHEMBL2996,Kinase,0,0 /  17     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 1,HDAC1,Q13547,CHEMBL325,Eraser,0,8 /  0     
+20(29)-Lupene-3β-isoferulate,Acyl coenzyme A:cholesterol acyltransferase 1   (by homology),SOAT1,P35610,CHEMBL2782,Enzyme,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase I,CA1,P00915,CHEMBL261,Lyase,0,1 /  36     
+20(29)-Lupene-3β-isoferulate,Bradykinin B2 receptor,BDKRB2,P30411,CHEMBL3157,Family A G protein-coupled receptor,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase IV,CA4,P22748,CHEMBL3729,Lyase,0,0 /  18     
+20(29)-Lupene-3β-isoferulate,Tyrosine-protein kinase JAK2,JAK2,O60674,CHEMBL2971,Kinase,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Dopamine D3 receptor   (by homology),DRD3,P35462,CHEMBL234,Family A G protein-coupled receptor,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 3,HDAC3,O15379,CHEMBL1829,Eraser,0,3 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 2,HDAC2,Q92769,CHEMBL1937,Eraser,0,3 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 10,HDAC10,Q969S8,CHEMBL5103,Eraser,0,3 /  0     
+20(29)-Lupene-3β-isoferulate,Gonadotropin-releasing hormone receptor,GNRHR,P30968,CHEMBL1855,Family A G protein-coupled receptor,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Bromodomain-containing protein 4,BRD4,O60885,CHEMBL1163125,Reader,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Dual specificity phosphatase Cdc25B,CDC25B,P30305,CHEMBL4804,Phosphatase,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Thrombin,F2,P00734,CHEMBL204,Protease,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,C-C chemokine receptor type 3,CCR3,P51677,CHEMBL3473,Family A G protein-coupled receptor,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Cytosolic phospholipase A2,PLA2G4A,P47712,CHEMBL3816,Enzyme,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Vasopressin V1a receptor   (by homology),AVPR1A,P37288,CHEMBL1889,Family A G protein-coupled receptor,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0,0 /  22     
+20(29)-Lupene-3β-isoferulate,Cyclin-dependent kinase 2,CDK2,P24941,CHEMBL301,Kinase,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Prostaglandin E synthase,PTGES,O14684,CHEMBL5658,Enzyme,0,0 /  27     
+20(29)-Lupene-3β-isoferulate,Insulin receptor,INSR,P06213,CHEMBL1981,Kinase,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,Tyrosine-protein kinase ITK/TSK,ITK,Q08881,CHEMBL2959,Kinase,0,2 /  0     
+20(29)-Lupene-3β-isoferulate,Tyrosine-protein kinase TXK,TXK,P42681,CHEMBL4367,Kinase,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Tyrosine-protein kinase BTK,BTK,Q06187,CHEMBL5251,Kinase,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Adenosine A1 receptor,ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0,0 /  1     
+20(29)-Lupene-3β-isoferulate,Adenosine A2a receptor,ADORA2A,P29274,CHEMBL251,Family A G protein-coupled receptor,0,0 /  1     
+20(29)-Lupene-3β-isoferulate,Adenosine A2b receptor,ADORA2B,P29275,CHEMBL255,Family A G protein-coupled receptor,0,0 /  1     
+20(29)-Lupene-3β-isoferulate,C-C chemokine receptor type 5,CCR5,P51681,CHEMBL274,Family A G protein-coupled receptor,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0,0 /  5     
+20(29)-Lupene-3β-isoferulate,HMG-CoA reductase   (by homology),HMGCR,P04035,CHEMBL402,Oxidoreductase,0,0 /  29     
+20(29)-Lupene-3β-isoferulate,Delta opioid receptor,OPRD1,P41143,CHEMBL236,Family A G protein-coupled receptor,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 5,HDAC5,Q9UQL6,CHEMBL2563,Eraser,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 7,HDAC7,Q8WUI4,CHEMBL2716,Eraser,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Histone deacetylase 4,HDAC4,P56524,CHEMBL3524,Eraser,0,1 /  0     
+20(29)-Lupene-3β-isoferulate,Arachidonate 15-lipoxygenase,ALOX15,P16050,CHEMBL2903,Enzyme,0,0 /  2     
+20(29)-Lupene-3β-isoferulate,Protein kinase C epsilon,PRKCE,Q02156,CHEMBL3582,Kinase,0,0 /  6     
+20(29)-Lupene-3β-isoferulate,Arachidonate 12-lipoxygenase,ALOX12,P18054,CHEMBL3687,Enzyme,0,0 /  1     
+20(29)-Lupene-3β-isoferulate,Protein kinase C theta,PRKCQ,Q04759,CHEMBL3920,Kinase,0,0 /  3     
+20(29)-Lupene-3β-isoferulate,Monoamine oxidase A,MAOA,P21397,CHEMBL1951,Oxidoreductase,0,0 /  6     
+20(29)-Lupene-3β-isoferulate,Histone acetyltransferase p300,EP300,Q09472,CHEMBL3784,Writer,0,0 /  2     
+20(29)-Lupene-3β-isoferulate,Toll-like receptor (TLR7/TLR9),TLR9,Q9NR96,CHEMBL5804,Toll-like and Il-1 receptors,0,0 /  2     
+20(29)-Lupene-3β-isoferulate,Estradiol 17-beta-dehydrogenase 3,HSD17B3,P37058,CHEMBL4234,Enzyme,0,0 /  1     
+20(29)-Lupene-3β-isoferulate,Carbonic anhydrase II,CA2,P00918,CHEMBL205,Lyase,0,1 /  26     
+20(29)-Lupene-3β-isoferulate,PI3-kinase p110-alpha subunit,PIK3CA,P42336,CHEMBL4005,Enzyme,0,0 /  1     
+Ornithosaponin A,11-beta-hydroxysteroid dehydrogenase 2,HSD11B2,P80365,CHEMBL3746,Enzyme,0.031763241,0 /  3     
+Ornithosaponin A,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0.031763241,0 /  8     
+Ornithosaponin A,Interleukin-2,IL2,P60568,CHEMBL5880,Secreted protein,0.0216065193,0 /  1     
+Ornithosaponin A,Zinc finger protein GLI1,GLI1,P08151,CHEMBL5461,Transcription factor,0.0216065193,0 /  2     
+Ornithosaponin A,Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0.0216065193,0 /  1     
+Ornithosaponin A,Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0.0216065193,38 /  21     
+Ornithosaponin A,Proto-oncogene c-JUN,JUN,P05412,CHEMBL4977,Transcription factor,0.0216065193,0 /  4     
+Ornithosaponin A,Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.0216065193,2 /  7     
+Ornithosaponin A,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0,0 /  6     
+Ornithosaponin A,Androgen Receptor   (by homology),AR,P10275,CHEMBL1871,Nuclear receptor,0,0 /  20     
+Ornithosaponin A,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0,0 /  13     
+Ornithosaponin A,Nuclear receptor ROR-gamma,RORC,P51449,CHEMBL1741186,Nuclear receptor,0,0 /  2     
+Ornithosaponin A,Receptor-type tyrosine-protein phosphatase alpha,PTPRA,P18433,CHEMBL3918,Phosphatase,0,6 /  0     
+Ornithosaponin A,Platelet activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0,0 /  16     
+Ornithosaponin A,Thrombin,F2,P00734,CHEMBL204,Protease,0,2 /  6     
+Ornithosaponin A,Integrin alpha-V/beta-3,ITGAV ITGB3,P06756 P05106,CHEMBL1907598,Membrane receptor,0,52 /  0     
+Ornithosaponin A,Thymidylate synthase   (by homology),TYMS,P04818,CHEMBL1952,Transferase,0,59 /  0     
+Ornithosaponin A,Sodium/glucose cotransporter 2,SLC5A2,P31639,CHEMBL3884,Electrochemical transporter,0,14 /  0     
+Ornithosaponin A,Sodium/glucose cotransporter 1,SLC5A1,P13866,CHEMBL4979,Electrochemical transporter,0,11 /  0     
+Ornithosaponin A,Serotonin 2b (5-HT2b) receptor,HTR2B,P41595,CHEMBL1833,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Alpha-2a adrenergic receptor,ADRA2A,P08913,CHEMBL1867,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Adrenergic receptor alpha-2,ADRA2C,P18825,CHEMBL1916,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Alpha-2b adrenergic receptor,ADRA2B,P18089,CHEMBL1942,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Dopamine D1 receptor,DRD1,P21728,CHEMBL2056,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Alpha-1d adrenergic receptor,ADRA1D,P25100,CHEMBL223,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Serotonin 2a (5-HT2a) receptor,HTR2A,P28223,CHEMBL224,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Serotonin 2c (5-HT2c) receptor,HTR2C,P28335,CHEMBL225,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Cytochrome P450 2D6,CYP2D6,P10635,CHEMBL289,Cytochrome P450,0,0 /  1     
+Ornithosaponin A,Serotonin 6 (5-HT6) receptor,HTR6,P50406,CHEMBL3371,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Alpha-1a adrenergic receptor   (by homology),ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0,0 /  2     
+Ornithosaponin A,Serotonin 1b (5-HT1b) receptor   (by homology),HTR1B,P28222,CHEMBL1898,Family A G protein-coupled receptor,0,0 /  1     
+Ornithosaponin A,Squalene synthetase   (by homology),FDFT1,P37268,CHEMBL3338,Enzyme,0,0 /  154     
+Ornithosaponin A,Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0,2 /  0     
+Ornithosaponin A,Protein phosphatase 2C beta,PPM1B,O75688,CHEMBL2845,Phosphatase,0,1 /  1     
+Ornithosaponin A,Serine/threonine protein phosphatase PP1-gamma catalytic subunit,PPP1CC,P36873,CHEMBL4438,Phosphatase,0,1 /  2     
+Ornithosaponin A,"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,P67775,CHEMBL4703,Phosphatase,0,1 /  3     
+Ornithosaponin A,"Serine/threonine protein phosphatase 2A, 56 kDa regulatory subunit, alpha isoform",PPP2R5A,Q15172,CHEMBL4763,Phosphatase,0,1 /  1     
+Ornithosaponin A,Vitamin D receptor,VDR,P11473,CHEMBL1977,Nuclear receptor,0,0 /  2     
+Ornithosaponin A,Integrin alpha-IIb/beta-3,ITGA2B ITGB3,P08514 P05106,CHEMBL2093869,Membrane receptor,0,45 /  0     
+Ornithosaponin A,Integrin alpha-V/beta-5,ITGB5 ITGAV,P18084 P06756,CHEMBL2096675,Membrane receptor,0,15 /  0     
+Ornithosaponin A,Integrin alpha-V/beta-6,ITGAV ITGB6,P06756 P18564,CHEMBL2111416,Membrane receptor,0,8 /  0     
+Ornithosaponin A,Endothelin receptor ET-B   (by homology),EDNRB,P24530,CHEMBL1785,Family A G protein-coupled receptor,0,1 /  0     
+Ornithosaponin A,Glycine receptor subunit alpha-1,GLRA1,P23415,CHEMBL5845,Ligand-gated ion channel,0,0 /  9     
+Ornithosaponin A,Glycine receptor subunit alpha-2,GLRA2,P23416,CHEMBL5871,Ligand-gated ion channel,0,0 /  8     
+Ornithosaponin A,DNA polymerase alpha subunit,POLA1,P09884,CHEMBL1828,Transferase,0,0 /  2     
+Ornithosaponin A,Protein kinase C alpha,PRKCA,P17252,CHEMBL299,Kinase,0,0 /  145     
+Ornithosaponin A,Protein phosphatase 2C alpha,PPM1A,P35813,CHEMBL2437,Phosphatase,0,0 /  1     
+Ornithosaponin A,DNA topoisomerase I,TOP1,P11387,CHEMBL1781,Isomerase,0,9 /  0     
+Ornithosaponin A,Cathepsin (B and K),CTSB,P07858,CHEMBL4072,Protease,0,2 /  0     
+Ornithosaponin A,Sodium/potassium-transporting ATPase alpha-1 chain,ATP1A1,P05023,CHEMBL1807,Primary active transporter,0,0 /  1     
+Ornithosaponin A,Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0,10 /  0     
+Ornithosaponin A,Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0,3 /  0     
+Ornithosaponin A,Matrix metalloproteinase 8,MMP8,P22894,CHEMBL4588,Protease,0,2 /  0     
+Ornithosaponin A,Peroxisome proliferator-activated receptor gamma,PPARG,P37231,CHEMBL235,Nuclear receptor,0,2 /  0     
+Ornithosaponin A,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,CHEMBL239,Nuclear receptor,0,2 /  0     
+Ornithosaponin A,Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0,2 /  1     
+Ornithosaponin A,Sphingosine 1-phosphate receptor Edg-3,S1PR3,Q99500,CHEMBL3892,Family A G protein-coupled receptor,0,19 /  0     
+Ornithosaponin A,Sphingosine 1-phosphate receptor Edg-1,S1PR1,P21453,CHEMBL4333,Family A G protein-coupled receptor,0,25 /  0     
+Ornithosaponin A,Beta-galactosidase,GLB1,P16278,CHEMBL2522,Hydrolase,0,1 /  0     
+Ornithosaponin A,Adenosine A1 receptor   (by homology),ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0,23 /  0     
+Ornithosaponin A,Cytochrome P450 17A1,CYP17A1,P05093,CHEMBL3522,Cytochrome P450,0,0 /  5     
+Ornithosaponin A,Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP,PTPN22,Q9Y2R2,CHEMBL2889,Phosphatase,0,2 /  0     
+Ornithosaponin A,Delta opioid receptor   (by homology),OPRD1,P41143,CHEMBL236,Family A G protein-coupled receptor,0,15 /  0     
+Ornithosaponin A,Matrix metalloproteinase 12,MMP12,P39900,CHEMBL4393,Protease,0,2 /  0     
+Ornithosaponin A,Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,O14920,CHEMBL1991,Kinase,0,2 /  0     
+Ornithosaponin A,Adrenergic receptor beta,ADRB2,P07550,CHEMBL210,Family A G protein-coupled receptor,0,5 /  0     
+Ornithosaponin A,Cyclin-dependent kinase 2,CDK2,P24941,CHEMBL301,Kinase,0,1 /  0     
+Ornithosaponin A,Purinergic receptor P2Y12,P2RY12,Q9H244,CHEMBL2001,Family A G protein-coupled receptor,0,32 /  0     
+Ornithosaponin A,Thrombin and coagulation factor X,F10,P00742,CHEMBL244,Protease,0,3 /  0     
+Ornithosaponin A,Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0,8 /  0     
+Ornithosaponin A,Leukocyte adhesion glycoprotein LFA-1 alpha,ITGAL,P20701,CHEMBL1803,Adhesion,0,1 /  0     
+Ornithosaponin A,Folylpoly-gamma-glutamate synthetase   (by homology),FPGS,Q05932,CHEMBL3171,Enzyme,0,3 /  0     
+Ornithosaponin A,GAR transformylase   (by homology),GART,P22102,CHEMBL3972,Ligase,0,5 /  0     
+Ornithosaponin A,Serine/threonine-protein kinase Aurora-B,AURKB,Q96GD4,CHEMBL2185,Kinase,0,1 /  0     
+Ornithosaponin A,HLA class I histocompatibility antigen A-3,HLA-A,P04439,CHEMBL2632,Surface antigen,0,2 /  0     
+Ornithosaponin A,Serine/threonine-protein kinase Aurora-A,AURKA,O14965,CHEMBL4722,Kinase,0,1 /  0     
+Ornithosaponin A,Tubulin--tyrosine ligase,TTL,Q8NG68,CHEMBL5549,Enzyme,0,0 /  4     
+Ornithosaponin A,Macrophage colony stimulating factor receptor,CSF1R,P07333,CHEMBL1844,Kinase,0,3 /  0     
+Ornithosaponin A,Protein kinase C delta,PRKCD,Q05655,CHEMBL2996,Kinase,0,0 /  25     
+Ornithosaponin A,Protein kinase C epsilon,PRKCE,Q02156,CHEMBL3582,Kinase,0,0 /  25     
+Ornithosaponin A,Protein kinase C eta,PRKCH,P24723,CHEMBL3616,Kinase,0,0 /  4     
+Ornithosaponin A,Protein kinase C theta,PRKCQ,Q04759,CHEMBL3920,Kinase,0,0 /  7     
+Ornithosaponin A,Integrin alpha-5/beta-1,ITGB1 ITGA5,P05556 P08648,CHEMBL2095226,Membrane receptor,0,7 /  0     
+Ornithosaponin A,Growth factor receptor-bound protein 2,GRB2,P62993,CHEMBL3663,Other cytosolic protein,0,8 /  0     
+Ornithosaponin A,Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0,2 /  0     
+Ornithosaponin A,Inhibitor of apoptosis protein 3,XIAP,P98170,CHEMBL4198,Other cytosolic protein,0,1 /  0     
+Ornithosaponin A,Dihydrofolate reductase   (by homology),DHFR,P00374,CHEMBL202,Oxidoreductase,0,11 /  0     
+Ornithosaponin A,Dipeptidyl peptidase IV,DPP4,P27487,CHEMBL284,Protease,0,2 /  0     
+Ornithosaponin A,Bcl-2-related protein A1   (by homology),BCL2A1,Q16548,CHEMBL6044,Unclassified protein,0,1 /  0     
+Ornithosaponin A,Telomerase reverse transcriptase,TERT,O14746,CHEMBL2916,Enzyme,0,0 /  2     
+Ornithosaponin A,Beta-1 adrenergic receptor,ADRB1,P08588,CHEMBL213,Family A G protein-coupled receptor,0,3 /  0     
+Ornithosaponin A,Beta-3 adrenergic receptor,ADRB3,P13945,CHEMBL246,Family A G protein-coupled receptor,0,1 /  0     
+Ornithosaponin A,Glucose-6-phosphate translocase,SLC37A4,O43826,CHEMBL3217398,Electrochemical transporter,0,1 /  0     
+Ornithosaponin A,Toll-like receptor (TLR7/TLR9),TLR9,Q9NR96,CHEMBL5804,Toll-like and Il-1 receptors,0,0 /  2     
+Ornithosaponin A,Steroid 5-alpha-reductase 1,SRD5A1,P18405,CHEMBL1787,Oxidoreductase,0,1 /  0     
+Ornithosaponin A,Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0,3 /  0     
+Ornithosaponin A,Adenosine A2a receptor,ADORA2A,P29274,CHEMBL251,Family A G protein-coupled receptor,0,8 /  0     
+Ornithosaponin A,Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0,3 /  0     
+Ornithosaponin A,Vascular endothelial growth factor A,VEGFA,P15692,CHEMBL1783,Secreted protein,0,0 /  1     
+Ornithosaponin A,Acidic fibroblast growth factor,FGF1,P05230,CHEMBL2120,Secreted protein,0,0 /  2     
+P57 (glycoside),Proto-oncogene c-JUN,JUN,P05412,CHEMBL4977,Transcription factor,0.0642387798,0 /  6     
+P57 (glycoside),Thrombin,F2,P00734,CHEMBL204,Protease,0.0642387798,0 /  8     
+P57 (glycoside),Protein phosphatase 2C beta,PPM1B,O75688,CHEMBL2845,Phosphatase,0.0642387798,0 /  1     
+P57 (glycoside),Serine/threonine protein phosphatase PP1-gamma catalytic subunit,PPP1CC,P36873,CHEMBL4438,Phosphatase,0.0642387798,0 /  3     
+P57 (glycoside),"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,P67775,CHEMBL4703,Phosphatase,0.0642387798,0 /  8     
+P57 (glycoside),"Serine/threonine protein phosphatase 2A, 56 kDa regulatory subunit, alpha isoform",PPP2R5A,Q15172,CHEMBL4763,Phosphatase,0.0642387798,0 /  1     
+P57 (glycoside),Protein kinase C delta,PRKCD,Q05655,CHEMBL2996,Kinase,0.0642387798,0 /  54     
+P57 (glycoside),Protein kinase C beta,PRKCB,P05771,CHEMBL3045,Kinase,0.0642387798,0 /  10     
+P57 (glycoside),Protein kinase C epsilon,PRKCE,Q02156,CHEMBL3582,Kinase,0.0642387798,0 /  32     
+P57 (glycoside),Protein kinase C eta,PRKCH,P24723,CHEMBL3616,Kinase,0.0642387798,0 /  6     
+P57 (glycoside),Protein kinase C theta,PRKCQ,Q04759,CHEMBL3920,Kinase,0.0642387798,0 /  9     
+P57 (glycoside),Zinc finger protein GLI1,GLI1,P08151,CHEMBL5461,Transcription factor,0.0642387798,0 /  2     
+P57 (glycoside),Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0.0642387798,0 /  5     
+P57 (glycoside),Protein kinase C alpha,PRKCA,P17252,CHEMBL299,Kinase,0.0642387798,4 /  240     
+P57 (glycoside),Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.0642387798,0 /  13     
+P57 (glycoside),Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0.0642387798,4 /  39     
+P57 (glycoside),11-beta-hydroxysteroid dehydrogenase 2,HSD11B2,P80365,CHEMBL3746,Enzyme,0.0642387798,0 /  4     
+P57 (glycoside),11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0.0642387798,0 /  12     
+P57 (glycoside),Telomerase reverse transcriptase,TERT,O14746,CHEMBL2916,Enzyme,0.0642387798,0 /  2     
+P57 (glycoside),Interleukin-2,IL2,P60568,CHEMBL5880,Secreted protein,0.0642387798,0 /  2     
+P57 (glycoside),Geranylgeranyl transferase type I,PGGT1B FNTA,P53609 P49354,CHEMBL2095164,Enzyme,0.0642387798,0 /  1     
+P57 (glycoside),Isoleucyl-tRNA synthetase,IARS,P41252,CHEMBL3235,Enzyme,0.0642387798,0 /  3     
+P57 (glycoside),Tubulin--tyrosine ligase,TTL,Q8NG68,CHEMBL5549,Enzyme,0.0642387798,0 /  12     
+P57 (glycoside),Squalene synthetase   (by homology),FDFT1,P37268,CHEMBL3338,Enzyme,0.0642387798,0 /  163     
+P57 (glycoside),Cyclooxygenase-2,PTGS2,P35354,CHEMBL230,Oxidoreductase,0.0642387798,0 /  13     
+P57 (glycoside),Vanilloid receptor   (by homology),TRPV1,Q8NER1,CHEMBL4794,Voltage-gated ion channel,0.0642387798,0 /  52     
+P57 (glycoside),Glycine receptor subunit alpha-1,GLRA1,P23415,CHEMBL5845,Ligand-gated ion channel,0.0642387798,0 /  11     
+P57 (glycoside),Glycine receptor subunit alpha-2,GLRA2,P23416,CHEMBL5871,Ligand-gated ion channel,0.0642387798,0 /  8     
+P57 (glycoside),Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0.0642387798,0 /  33     
+P57 (glycoside),Platelet activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0.0642387798,0 /  16     
+P57 (glycoside),Proteinase-activated receptor 2,F2RL1,P55085,CHEMBL5963,Family A G protein-coupled receptor,0.0642387798,0 /  1     
+P57 (glycoside),Interleukin-8 receptor A,CXCR1,P25024,CHEMBL4029,Family A G protein-coupled receptor,0,0 /  2     
+P57 (glycoside),Protein phosphatase 2A regulatory subunit B',PTPA,Q15257,CHEMBL2505,Phosphatase,0,0 /  3     
+P57 (glycoside),HMG-CoA reductase   (by homology),HMGCR,P04035,CHEMBL402,Oxidoreductase,0,0 /  82     
+P57 (glycoside),Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,O14983,CHEMBL3136,Hydrolase,0,0 /  4     
+P57 (glycoside),Sodium/potassium-transporting ATPase alpha-1 chain,ATP1A1,P05023,CHEMBL1807,Primary active transporter,0,2 /  4     
+P57 (glycoside),Voltage-gated potassium channel subunit Kv1.3,KCNA3,P22001,CHEMBL4633,Voltage-gated ion channel,0,0 /  2     
+P57 (glycoside),Protein kinase C gamma,PRKCG,P05129,CHEMBL2938,Kinase,0,0 /  7     
+P57 (glycoside),Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0,2 /  0     
+P57 (glycoside),"Nitric oxide synthase, inducible   (by homology)",NOS2,P35228,CHEMBL4481,Enzyme,0,0 /  4     
+P57 (glycoside),Proto-oncogene vav,VAV1,P15498,CHEMBL3259472,Unclassified protein,0,0 /  1     
+P57 (glycoside),Transient receptor potential cation channel subfamily V member 4   (by homology),TRPV4,Q9HBA0,CHEMBL3119,Voltage-gated ion channel,0,0 /  5     
+P57 (glycoside),Nuclear receptor ROR-gamma,RORC,P51449,CHEMBL1741186,Nuclear receptor,0,2 /  3     
+P57 (glycoside),Thromboxane A2 receptor,TBXA2R,P21731,CHEMBL2069,Family A G protein-coupled receptor,0,0 /  7     
+P57 (glycoside),Methionine aminopeptidase 2,METAP2,P50579,CHEMBL3922,Protease,0,0 /  9     
+P57 (glycoside),PI3-kinase p110-alpha subunit,PIK3CA,P42336,CHEMBL4005,Enzyme,0,5 /  0     
+P57 (glycoside),Phosphodiesterase 4D,PDE4D,Q08499,CHEMBL288,Phosphodiesterase,0,1 /  11     
+P57 (glycoside),Phospholipase A2 group IIA,PLA2G2A,P14555,CHEMBL3474,Enzyme,0,0 /  8     
+P57 (glycoside),Phospholipase A2 group 1B,PLA2G1B,P04054,CHEMBL4426,Enzyme,0,0 /  4     
+P57 (glycoside),P-glycoprotein 1,ABCB1,P08183,CHEMBL4302,Primary active transporter,0,0 /  17     
+P57 (glycoside),Cathepsin K,CTSK,P43235,CHEMBL268,Protease,0,2 /  0     
+P57 (glycoside),Renin,REN,P00797,CHEMBL286,Protease,0,7 /  0     
+P57 (glycoside),Subtilisin/kexin type 7,PCSK7,Q16549,CHEMBL2232,Protease,0,0 /  1     
+P57 (glycoside),DNA-dependent protein kinase,PRKDC,P78527,CHEMBL3142,Kinase,0,3 /  0     
+P57 (glycoside),Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0,13 /  1     
+P57 (glycoside),Motilin receptor,MLNR,O43193,CHEMBL2203,Family A G protein-coupled receptor,0,0 /  9     
+P57 (glycoside),Glutathione S-transferase Mu 1,GSTM1,P09488,CHEMBL2081,Enzyme,0,0 /  1     
+P57 (glycoside),Oligosaccharyl transferase 48 kDa subunit,DDOST,P39656,CHEMBL4239,Enzyme,0,2 /  0     
+P57 (glycoside),Apoptosis regulator Bcl-2,BCL2,P10415,CHEMBL4860,Other ion channel,0,65 /  0     
+P57 (glycoside),Matrix metalloproteinase 8,MMP8,P22894,CHEMBL4588,Protease,0,5 /  0     
+P57 (glycoside),Toll-like receptor (TLR7/TLR9),TLR9,Q9NR96,CHEMBL5804,Toll-like and Il-1 receptors,0,0 /  2     
+P57 (glycoside),Sulfonylurea receptor 1,ABCC8,Q09428,CHEMBL2071,Primary active transporter,0,1 /  0     
+P57 (glycoside),"Glutaminase kidney isoform, mitochondrial",GLS,O94925,CHEMBL2146302,Enzyme,0,5 /  0     
+P57 (glycoside),Vacuolar ATP synthase subunit S1,ATP6AP1,Q15904,CHEMBL4790,Hydrolase,0,0 /  1     
+P57 (glycoside),Androgen Receptor,AR,P10275,CHEMBL1871,Nuclear receptor,0,1 /  51     
+P57 (glycoside),Squalene monooxygenase   (by homology),SQLE,Q14534,CHEMBL3592,Enzyme,0,0 /  5     
+P57 (glycoside),Hepatic lipase,LIPC,P11150,CHEMBL2127,Enzyme,0,6 /  0     
+P57 (glycoside),Adenosine A2a receptor,ADORA2A,P29274,CHEMBL251,Family A G protein-coupled receptor,0,13 /  0     
+P57 (glycoside),Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0,15 /  0     
+P57 (glycoside),Endothelial lipase,LIPG,Q9Y5X9,CHEMBL5080,Hydrolase,0,3 /  0     
+P57 (glycoside),Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0,0 /  6     
+P57 (glycoside),Ileal bile acid transporter,SLC10A2,Q12908,CHEMBL2778,Electrochemical transporter,0,2 /  0     
+P57 (glycoside),p53-binding protein Mdm-2,MDM2,Q00987,CHEMBL5023,Other nuclear protein,0,1 /  0     
+P57 (glycoside),Protein farnesyltransferase,FNTA FNTB,P49354 P49356,CHEMBL2094108,Enzyme,0,1 /  6     
+P57 (glycoside),MAP kinase p38 alpha,MAPK14,Q16539,CHEMBL260,Kinase,0,3 /  0     
+P57 (glycoside),HLA class I histocompatibility antigen A-3,HLA-A,P04439,CHEMBL2632,Surface antigen,0,5 /  0     
+P57 (glycoside),Hypoxia-inducible factor prolyl hydroxylase 1,EGLN2,Q96KS0,CHEMBL3028,Enzyme,0,1 /  0     
+P57 (glycoside),Egl nine homolog 1,EGLN1,Q9GZT9,CHEMBL5697,Oxidoreductase,0,1 /  0     
+P57 (glycoside),Egl nine homolog 3,EGLN3,Q9H6Z9,CHEMBL5705,Enzyme,0,1 /  0     
+P57 (glycoside),Cyclin-dependent kinase 2,CDK2,P24941,CHEMBL301,Kinase,0,1 /  0     
+P57 (glycoside),Programmed cell death protein 4,PDCD4,Q53EL6,CHEMBL1781868,Unclassified protein,0,0 /  8     
+P57 (glycoside),Dopamine D4 receptor,DRD4,P21917,CHEMBL219,Family A G protein-coupled receptor,0,3 /  0     
+P57 (glycoside),Serine/threonine-protein kinase Aurora-A,AURKA,O14965,CHEMBL4722,Kinase,0,7 /  0     
+P57 (glycoside),Protein phosphatase 2C alpha,PPM1A,P35813,CHEMBL2437,Phosphatase,0,0 /  1     
+P57 (glycoside),Sodium/glucose cotransporter 2,SLC5A2,P31639,CHEMBL3884,Electrochemical transporter,0,1 /  0     
+P57 (glycoside),Tyrosine-protein kinase receptor FLT3,FLT3,P36888,CHEMBL1974,Kinase,0,1 /  0     
+P57 (glycoside),Sphingosine 1-phosphate receptor Edg-3,S1PR3,Q99500,CHEMBL3892,Family A G protein-coupled receptor,0,14 /  0     
+P57 (glycoside),Sphingosine 1-phosphate receptor Edg-1,S1PR1,P21453,CHEMBL4333,Family A G protein-coupled receptor,0,14 /  0     
+P57 (glycoside),Cholecystokinin B receptor,CCKBR,P32239,CHEMBL298,Family A G protein-coupled receptor,0,3 /  0     
+P57 (glycoside),Brain adenylate cyclase 1,ADCY1,Q08828,CHEMBL2899,Enzyme,0,0 /  24     
+P57 (glycoside),Thromboxane-A synthase,TBXAS1,P24557,CHEMBL1835,Cytochrome P450,0,4 /  0     
+P57 (glycoside),Dual specificity protein phosphatase 3,DUSP3,P51452,CHEMBL2635,Phosphatase,0,0 /  1     
+P57 (glycoside),Vitamin D receptor,VDR,P11473,CHEMBL1977,Nuclear receptor,0,0 /  3     
+P57 (glycoside),"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,Q16875,CHEMBL2331053,Enzyme,0,2 /  0     
+P57 (glycoside),Cathepsin S,CTSS,P25774,CHEMBL2954,Protease,0,1 /  0     
+P57 (glycoside),Cathepsin L,CTSL,P07711,CHEMBL3837,Protease,0,1 /  0     
+P57 (glycoside),Cathepsin (B and K),CTSB,P07858,CHEMBL4072,Protease,0,2 /  0     
+P57 (glycoside),Serotonin 2b (5-HT2b) receptor,HTR2B,P41595,CHEMBL1833,Family A G protein-coupled receptor,0,0 /  1     
+P57 (glycoside),Adrenergic receptor alpha-2,ADRA2C,P18825,CHEMBL1916,Family A G protein-coupled receptor,0,0 /  1     
+P57 (glycoside),Alpha-2b adrenergic receptor,ADRA2B,P18089,CHEMBL1942,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Squalene monooxygenase   (by homology),SQLE,Q14534,CHEMBL3592,Enzyme,0.0642387798,0 /  18     
+Saundersioside G,AMY1C,AMY1A,P04745,CHEMBL2478,Enzyme,0.0642387798,0 /  1     
+Saundersioside G,Plasminogen activator inhibitor-1,SERPINE1,P05121,CHEMBL3475,Secreted protein,0.0642387798,0 /  10     
+Saundersioside G,Galectin-9,LGALS9,O00182,CHEMBL5474,Other cytosolic protein,0.0642387798,0 /  1     
+Saundersioside G,Heat shock protein HSP 90-alpha,HSP90AA1,P07900,CHEMBL3880,Other cytosolic protein,0,1 /  8     
+Saundersioside G,Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0,17 /  34     
+Saundersioside G,Tyrosyl-DNA phosphodiesterase 1,TDP1,Q9NUW8,CHEMBL1075138,Enzyme,0,0 /  2     
+Saundersioside G,Protein kinase C delta   (by homology),PRKCD,Q05655,CHEMBL2996,Kinase,0,0 /  37     
+Saundersioside G,DNA polymerase beta,POLB,P06746,CHEMBL2392,Enzyme,0,0 /  1     
+Saundersioside G,Protein kinase C alpha,PRKCA,P17252,CHEMBL299,Kinase,0,0 /  112     
+Saundersioside G,Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0,0 /  8     
+Saundersioside G,Aldose reductase,AKR1B1,P15121,CHEMBL1900,Enzyme,0,3 /  3     
+Saundersioside G,Beta-1 adrenergic receptor,ADRB1,P08588,CHEMBL213,Family A G protein-coupled receptor,0,2 /  0     
+Saundersioside G,T-cell protein-tyrosine phosphatase,PTPN2,P17706,CHEMBL3807,Phosphatase,0,4 /  17     
+Saundersioside G,Serine/threonine-protein kinase Aurora-A,AURKA,O14965,CHEMBL4722,Kinase,0,9 /  0     
+Saundersioside G,Mu opioid receptor   (by homology),OPRM1,P35372,CHEMBL233,Family A G protein-coupled receptor,0,16 /  0     
+Saundersioside G,Interleukin-2,IL2,P60568,CHEMBL5880,Secreted protein,0,0 /  1     
+Saundersioside G,Cyclooxygenase-2,PTGS2,P35354,CHEMBL230,Oxidoreductase,0,0 /  2     
+Saundersioside G,Integrin alpha-V/beta-3,ITGAV ITGB3,P06756 P05106,CHEMBL1907598,Membrane receptor,0,29 /  0     
+Saundersioside G,Integrin alpha-5/beta-1,ITGB1 ITGA5,P05556 P08648,CHEMBL2095226,Membrane receptor,0,8 /  0     
+Saundersioside G,Ileal bile acid transporter,SLC10A2,Q12908,CHEMBL2778,Electrochemical transporter,0,13 /  0     
+Saundersioside G,P-glycoprotein 1,ABCB1,P08183,CHEMBL4302,Primary active transporter,0,0 /  87     
+Saundersioside G,Norepinephrine transporter,SLC6A2,P23975,CHEMBL222,Electrochemical transporter,0,0 /  1     
+Saundersioside G,Squalene synthetase,FDFT1,P37268,CHEMBL3338,Enzyme,0,0 /  152     
+Saundersioside G,Thrombin and coagulation factor X,F10,P00742,CHEMBL244,Protease,0,1 /  3     
+Saundersioside G,Glucagon receptor,GCGR,P47871,CHEMBL1985,Family B G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Alpha-1a adrenergic receptor,ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0,0 /  2     
+Saundersioside G,Alpha-1b adrenergic receptor,ADRA1B,P35368,CHEMBL232,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,C-C chemokine receptor type 6,CCR6,P51684,CHEMBL4423,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Galectin-3,LGALS3,P17931,CHEMBL4531,Other cytosolic protein,0,1 /  3     
+Saundersioside G,Deoxycytidine kinase,DCK,P27707,CHEMBL2447,Enzyme,0,1 /  0     
+Saundersioside G,Thymidylate synthase   (by homology),TYMS,P04818,CHEMBL1952,Transferase,0,13 /  0     
+Saundersioside G,Vanilloid receptor   (by homology),TRPV1,Q8NER1,CHEMBL4794,Voltage-gated ion channel,0,0 /  48     
+Saundersioside G,Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0,3 /  4     
+Saundersioside G,Vascular endothelial growth factor A,VEGFA,P15692,CHEMBL1783,Secreted protein,0,0 /  1     
+Saundersioside G,Acidic fibroblast growth factor,FGF1,P05230,CHEMBL2120,Secreted protein,0,0 /  1     
+Saundersioside G,Basic fibroblast growth factor,FGF2,P09038,CHEMBL3107,Secreted protein,0,0 /  1     
+Saundersioside G,Heparanase,HPSE,Q9Y251,CHEMBL3921,Enzyme,0,0 /  1     
+Saundersioside G,Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0,0 /  1     
+Saundersioside G,Tyrosine-protein kinase BTK,BTK,Q06187,CHEMBL5251,Kinase,0,6 /  0     
+Saundersioside G,Serine/threonine-protein kinase Aurora-B,AURKB,Q96GD4,CHEMBL2185,Kinase,0,6 /  0     
+Saundersioside G,Tyrosine-protein kinase JAK2,JAK2,O60674,CHEMBL2971,Kinase,0,1 /  0     
+Saundersioside G,Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0,4 /  0     
+Saundersioside G,Platelet activating factor receptor   (by homology),PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0,0 /  15     
+Saundersioside G,P-selectin,SELP,P16109,CHEMBL5378,Adhesion,0,0 /  1     
+Saundersioside G,Zinc finger protein GLI1,GLI1,P08151,CHEMBL5461,Transcription factor,0,0 /  2     
+Saundersioside G,Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0,5 /  0     
+Saundersioside G,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,CHEMBL239,Nuclear receptor,0,1 /  0     
+Saundersioside G,Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0,0 /  2     
+Saundersioside G,Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0,0 /  1     
+Saundersioside G,Leukocyte elastase,ELANE,P08246,CHEMBL248,Protease,0,1 /  0     
+Saundersioside G,Integrin alpha-IIb/beta-3,ITGA2B ITGB3,P08514 P05106,CHEMBL2093869,Membrane receptor,0,15 /  0     
+Saundersioside G,Integrin alpha-V/beta-5,ITGB5 ITGAV,P18084 P06756,CHEMBL2096675,Membrane receptor,0,4 /  0     
+Saundersioside G,Integrin alpha-V/beta-6,ITGAV ITGB6,P06756 P18564,CHEMBL2111416,Membrane receptor,0,3 /  0     
+Saundersioside G,HLA class I histocompatibility antigen A-3,HLA-A,P04439,CHEMBL2632,Surface antigen,0,3 /  0     
+Saundersioside G,Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0,2 /  0     
+Saundersioside G,Somatostatin receptor 5,SSTR5,P35346,CHEMBL1792,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Somatostatin receptor 2,SSTR2,P30874,CHEMBL1804,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Somatostatin receptor 4,SSTR4,P31391,CHEMBL1853,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Somatostatin receptor 1,SSTR1,P30872,CHEMBL1917,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Somatostatin receptor 3,SSTR3,P32745,CHEMBL2028,Family A G protein-coupled receptor,0,0 /  1     
+Saundersioside G,Receptor protein-tyrosine kinase erbB-2,ERBB2,P04626,CHEMBL1824,Kinase,0,2 /  0     
+Saundersioside G,Receptor-type tyrosine-protein phosphatase alpha,PTPRA,P18433,CHEMBL3918,Phosphatase,0,6 /  0     
+Saundersioside G,Macrophage colony stimulating factor receptor,CSF1R,P07333,CHEMBL1844,Kinase,0,4 /  0     
+Saundersioside G,Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0,8 /  0     
+Saundersioside G,Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0,4 /  0     
+Saundersioside G,Renin   (by homology),REN,P00797,CHEMBL286,Protease,0,10 /  0     
+Saundersioside G,Serine/threonine-protein kinase mTOR,MTOR,P42345,CHEMBL2842,Kinase,0,2 /  0     
+Saundersioside G,Growth factor receptor-bound protein 2,GRB2,P62993,CHEMBL3663,Other cytosolic protein,0,8 /  0     
+Saundersioside G,PI3-kinase p110-alpha subunit,PIK3CA,P42336,CHEMBL4005,Enzyme,0,2 /  0     
+Saundersioside G,Purinergic receptor P2Y12,P2RY12,Q9H244,CHEMBL2001,Family A G protein-coupled receptor,0,20 /  0     
+Saundersioside G,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0,1 /  0     
+Saundersioside G,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",DOT1L,Q8TEK3,CHEMBL1795117,Writer,0,1 /  0     
+Saundersioside G,Leukocyte common antigen,PTPRC,P08575,CHEMBL3243,Enzyme,0,1 /  0     
+Saundersioside G,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0,0 /  7     
+Saundersioside G,Sphingosine 1-phosphate receptor Edg-8,S1PR5,Q9H228,CHEMBL2274,Family A G protein-coupled receptor,0,1 /  0     
+Saundersioside G,3-phosphoinositide dependent protein kinase-1,PDPK1,O15530,CHEMBL2534,Kinase,0,6 /  0     
+Saundersioside G,HLA class II histocompatibility antigen DRB3-1,HLA-DRB3,P79483,CHEMBL3460,Surface antigen,0,1 /  0     
+Saundersioside G,Fibroblast growth factor receptor 1,FGFR1,P11362,CHEMBL3650,Kinase,0,13 /  0     
+Saundersioside G,Sphingosine 1-phosphate receptor Edg-3,S1PR3,Q99500,CHEMBL3892,Family A G protein-coupled receptor,0,11 /  0     
+Saundersioside G,Sphingosine 1-phosphate receptor Edg-1,S1PR1,P21453,CHEMBL4333,Family A G protein-coupled receptor,0,15 /  0     
+Saundersioside G,Adrenergic receptor beta,ADRB2,P07550,CHEMBL210,Family A G protein-coupled receptor,0,4 /  0     
+Saundersioside G,Transitional endoplasmic reticulum ATPase,VCP,P55072,CHEMBL1075145,Primary active transporter,0,0 /  1     
+Saundersioside G,"Troponin, cardiac muscle",TNNC1 TNNT2 TNNI3,P63316 P45379 P19429,CHEMBL2095202,Unclassified protein,0,0 /  1     
+Saundersioside G,Dual specificity phosphatase Cdc25B,CDC25B,P30305,CHEMBL4804,Phosphatase,0,0 /  3     
+Saundersioside G,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,Q16875,CHEMBL2331053,Enzyme,0,2 /  0     
+Saundersioside G,DNA topoisomerase I,TOP1,P11387,CHEMBL1781,Isomerase,0,5 /  0     
+Saundersioside G,Endothelin receptor ET-B   (by homology),EDNRB,P24530,CHEMBL1785,Family A G protein-coupled receptor,0,2 /  0     
+Saundersioside G,Platelet-derived growth factor receptor beta,PDGFRB,P09619,CHEMBL1913,Kinase,0,1 /  0     
+Saundersioside G,Stem cell growth factor receptor,KIT,P10721,CHEMBL1936,Kinase,0,1 /  0     
+Saundersioside G,Hepatic lipase,LIPC,P11150,CHEMBL2127,Enzyme,0,5 /  0     
+Saundersioside G,Cannabinoid receptor 1,CNR1,P21554,CHEMBL218,Family A G protein-coupled receptor,0,3 /  0     
+Saundersioside G,Cannabinoid receptor 2,CNR2,P34972,CHEMBL253,Family A G protein-coupled receptor,0,4 /  0     
+Saundersioside G,Tyrosine-protein kinase SRC,SRC,P12931,CHEMBL267,Kinase,0,2 /  0     
+Saundersioside G,Endothelial lipase,LIPG,Q9Y5X9,CHEMBL5080,Hydrolase,0,5 /  0     
+Saundersioside G,HMG-CoA reductase   (by homology),HMGCR,P04035,CHEMBL402,Oxidoreductase,0,0 /  7     
+Saundersioside G,Bradykinin B2 receptor,BDKRB2,P30411,CHEMBL3157,Family A G protein-coupled receptor,0,1 /  0     
+Saundersioside G,Scavenger receptor class B member 1,SCARB1,Q8WTV0,CHEMBL1914272,Unclassified protein,0,1 /  0     
+Saundersioside G,"Glutaminase kidney isoform, mitochondrial",GLS,O94925,CHEMBL2146302,Enzyme,0,1 /  0     
+Saundersioside G,Tyrosine-protein kinase ABL,ABL1,P00519,CHEMBL1862,Kinase,0,1 /  0     
+Scutiaquinone B,PI3-kinase p110-alpha subunit,PIK3CA,P42336,CHEMBL4005,Enzyme,0.1219062551,329 /  0     
+Scutiaquinone B,Heat shock protein HSP 90-beta,HSP90AB1,P08238,CHEMBL4303,Other cytosolic protein,0.1219062551,43 /  0     
+Scutiaquinone B,Proto-oncogene tyrosine-protein kinase ROS,ROS1,P08922,CHEMBL5568,Kinase,0.1219062551,15 /  0     
+Scutiaquinone B,Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0.1219062551,177 /  0     
+Scutiaquinone B,Matrix metalloproteinase 8,MMP8,P22894,CHEMBL4588,Protease,0.1219062551,76 /  0     
+Scutiaquinone B,Pyruvate dehydrogenase kinase isoform 1,PDK1,Q15118,CHEMBL4766,Kinase,0.1219062551,17 /  0     
+Scutiaquinone B,ADAMTS5,ADAMTS5,Q9UNA0,CHEMBL2285,Protease,0.1219062551,27 /  0     
+Scutiaquinone B,ADAMTS4,ADAMTS4,O75173,CHEMBL2318,Protease,0.1219062551,34 /  0     
+Scutiaquinone B,Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,Q5S007,CHEMBL1075104,Kinase,0.1219062551,85 /  0     
+Scutiaquinone B,Mitogen-activated protein kinase kinase kinase 12,MAP3K12,Q12852,CHEMBL1908389,Enzyme,0.1219062551,31 /  0     
+Scutiaquinone B,Histamine H3 receptor,HRH3,Q9Y5N1,CHEMBL264,Family A G protein-coupled receptor,0.1219062551,73 /  0     
+Scutiaquinone B,Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0.1219062551,69 /  0     
+Scutiaquinone B,P2X purinoceptor 7,P2RX7,Q99572,CHEMBL4805,Ligand-gated ion channel,0.1219062551,17 /  0     
+Scutiaquinone B,Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0.1219062551,93 /  0     
+Scutiaquinone B,Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0.1219062551,139 /  0     
+Scutiaquinone B,CDK2/Cyclin A,CCNA2 CDK2,P20248 P24941,CHEMBL3038469,Kinase,0.1219062551,34 /  0     
+Scutiaquinone B,ADAM17,ADAM17,P78536,CHEMBL3706,Protease,0.1219062551,126 /  0     
+Scutiaquinone B,Matrix metalloproteinase 3,MMP3,P08254,CHEMBL283,Protease,0.1219062551,131 /  0     
+Scutiaquinone B,Matrix metalloproteinase 7,MMP7,P09237,CHEMBL4073,Protease,0.1219062551,39 /  0     
+Scutiaquinone B,Apoptosis regulator Bcl-2,BCL2,P10415,CHEMBL4860,Other ion channel,0.1219062551,72 /  0     
+Scutiaquinone B,Insulin receptor,INSR,P06213,CHEMBL1981,Kinase,0.1219062551,20 /  0     
+Scutiaquinone B,Tyrosine-protein kinase ITK/TSK,ITK,Q08881,CHEMBL2959,Kinase,0.1219062551,44 /  0     
+Scutiaquinone B,Cyclin-dependent kinase 4,CDK4,P11802,CHEMBL331,Kinase,0.1219062551,21 /  0     
+Scutiaquinone B,Macrophage colony stimulating factor receptor   (by homology),CSF1R,P07333,CHEMBL1844,Kinase,0.1219062551,61 /  0     
+Scutiaquinone B,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0.1219062551,128 /  0     
+Scutiaquinone B,Lymphocyte differentiation antigen CD38,CD38,P28907,CHEMBL4660,Enzyme,0.1219062551,8 /  0     
+Scutiaquinone B,Sodium/glucose cotransporter 1,SLC5A1,P13866,CHEMBL4979,Electrochemical transporter,0.1219062551,21 /  0     
+Scutiaquinone B,Phosphodiesterase 2A,PDE2A,O00408,CHEMBL2652,Phosphodiesterase,0.1219062551,44 /  0     
+Scutiaquinone B,C-C chemokine receptor type 1,CCR1,P32246,CHEMBL2413,Family A G protein-coupled receptor,0.1219062551,136 /  0     
+Scutiaquinone B,Poly [ADP-ribose] polymerase-1,PARP1,P09874,CHEMBL3105,Enzyme,0.1219062551,63 /  0     
+Scutiaquinone B,Matrix metalloproteinase 14,MMP14,P50281,CHEMBL3869,Protease,0.1219062551,27 /  0     
+Scutiaquinone B,Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0.1219062551,37 /  0     
+Scutiaquinone B,Phosphodiesterase 4B,PDE4B,Q07343,CHEMBL275,Phosphodiesterase,0.1219062551,26 /  0     
+Scutiaquinone B,Bone morphogenetic protein 1,BMP1,P13497,CHEMBL3898,Protease,0.1219062551,35 /  0     
+Scutiaquinone B,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0.1219062551,83 /  0     
+Scutiaquinone B,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,Q16875,CHEMBL2331053,Enzyme,0.1219062551,24 /  0     
+Scutiaquinone B,Acetyl-coenzyme A transporter 1,SLC33A1,O00400,CHEMBL3638338,Electrochemical transporter,0.1219062551,8 /  0     
+Scutiaquinone B,ADAM10,ADAM10,O14672,CHEMBL5028,Protease,0.1219062551,8 /  0     
+Scutiaquinone B,P2X purinoceptor 3,P2RX3,P56373,CHEMBL2998,Ligand-gated ion channel,0.1219062551,275 /  0     
+Scutiaquinone B,PI3-kinase p110-beta subunit,PIK3CB,P42338,CHEMBL3145,Enzyme,0.1219062551,88 /  0     
+Scutiaquinone B,CDK8/Cyclin C,CCNC CDK8,P24863 P49336,CHEMBL3038474,Kinase,0.1219062551,8 /  0     
+Scutiaquinone B,Cell division protein kinase 8,CDK8,P49336,CHEMBL5719,Kinase,0.1219062551,14 /  0     
+Scutiaquinone B,FK506-binding protein 1A,FKBP1A,P62942,CHEMBL1902,Isomerase,0.1219062551,9 /  0     
+Scutiaquinone B,Serine/threonine-protein kinase mTOR,MTOR,P42345,CHEMBL2842,Kinase,0.1219062551,171 /  0     
+Scutiaquinone B,DNA-dependent protein kinase,PRKDC,P78527,CHEMBL3142,Kinase,0.1219062551,91 /  0     
+Scutiaquinone B,Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0.1219062551,786 /  0     
+Scutiaquinone B,Protein Wnt-3a,WNT3A,P56704,CHEMBL1255137,Unclassified protein,0.1219062551,4 /  0     
+Scutiaquinone B,Epidermal growth factor receptor erbB1,EGFR,P00533,CHEMBL203,Kinase,0.1219062551,180 /  0     
+Scutiaquinone B,Interleukin-8 receptor B,CXCR2,P25025,CHEMBL2434,Family A G protein-coupled receptor,0.1219062551,88 /  0     
+Scutiaquinone B,Interleukin-8 receptor A,CXCR1,P25024,CHEMBL4029,Family A G protein-coupled receptor,0.1219062551,64 /  0     
+Scutiaquinone B,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0.1219062551,108 /  0     
+Scutiaquinone B,Tankyrase-2,TNKS2,Q9H2K2,CHEMBL6154,Enzyme,0.1219062551,8 /  0     
+Scutiaquinone B,Thrombin,F2,P00734,CHEMBL204,Protease,0.1219062551,119 /  0     
+Scutiaquinone B,C-C chemokine receptor type 6,CCR6,P51684,CHEMBL4423,Family A G protein-coupled receptor,0.1219062551,2 /  0     
+Scutiaquinone B,C-X-C chemokine receptor type 3,CXCR3,P49682,CHEMBL4441,Family A G protein-coupled receptor,0.1219062551,11 /  0     
+Scutiaquinone B,Hematopoietic prostaglandin D synthase,HPGDS,O60760,CHEMBL5879,Transferase,0.1219062551,7 /  0     
+Scutiaquinone B,Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,Q8WWL7 P06493 P14635 O95067,CHEMBL2094127,Other cytosolic protein,0.1219062551,21 /  0     
+Scutiaquinone B,Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,P24941 P78396 P20248,CHEMBL2094128,Other cytosolic protein,0.1219062551,25 /  0     
+Scutiaquinone B,Ribosomal protein S6 kinase alpha 3,RPS6KA3,P51812,CHEMBL2345,Kinase,0.1219062551,9 /  0     
+Scutiaquinone B,Protein kinase C beta,PRKCB,P05771,CHEMBL3045,Kinase,0.1219062551,55 /  0     
+Scutiaquinone B,Lysine-specific histone demethylase 1,KDM1A,O60341,CHEMBL6136,Eraser,0.1219062551,5 /  0     
+Scutiaquinone B,Mu opioid receptor,OPRM1,P35372,CHEMBL233,Family A G protein-coupled receptor,0.1219062551,545 /  0     
+Scutiaquinone B,Delta opioid receptor,OPRD1,P41143,CHEMBL236,Family A G protein-coupled receptor,0.1219062551,404 /  0     
+Scutiaquinone B,Kappa Opioid receptor,OPRK1,P41145,CHEMBL237,Family A G protein-coupled receptor,0.1219062551,419 /  0     
+Scutiaquinone B,Leukotriene B4 receptor 1,LTB4R,Q15722,CHEMBL3911,Family A G protein-coupled receptor,0.1219062551,29 /  0     
+Scutiaquinone B,PI3-kinase p110-gamma subunit,PIK3CG,P48736,CHEMBL3267,Enzyme,0.1219062551,73 /  0     
+Scutiaquinone B,Thrombin and coagulation factor X,F10,P00742,CHEMBL244,Protease,0.1219062551,130 /  0     
+Scutiaquinone B,Cannabinoid receptor 2,CNR2,P34972,CHEMBL253,Family A G protein-coupled receptor,0.1219062551,105 /  0     
+Scutiaquinone B,Histone deacetylase 6,HDAC6,Q9UBN7,CHEMBL1865,Eraser,0.1219062551,70 /  0     
+Scutiaquinone B,Histone deacetylase 2,HDAC2,Q92769,CHEMBL1937,Eraser,0.1219062551,22 /  0     
+Scutiaquinone B,Dopamine D1 receptor,DRD1,P21728,CHEMBL2056,Family A G protein-coupled receptor,0.1219062551,23 /  0     
+Scutiaquinone B,Serotonin 1a (5-HT1a) receptor,HTR1A,P08908,CHEMBL214,Family A G protein-coupled receptor,0.1219062551,187 /  0     
+Scutiaquinone B,Dopamine D2 receptor,DRD2,P14416,CHEMBL217,Family A G protein-coupled receptor,0.1219062551,244 /  0     
+Scutiaquinone B,Dopamine D4 receptor,DRD4,P21917,CHEMBL219,Family A G protein-coupled receptor,0.1219062551,70 /  0     
+Scutiaquinone B,Serotonin 2a (5-HT2a) receptor,HTR2A,P28223,CHEMBL224,Family A G protein-coupled receptor,0.1219062551,148 /  0     
+Scutiaquinone B,Serotonin 2c (5-HT2c) receptor,HTR2C,P28335,CHEMBL225,Family A G protein-coupled receptor,0.1219062551,66 /  0     
+Scutiaquinone B,Dopamine D3 receptor,DRD3,P35462,CHEMBL234,Family A G protein-coupled receptor,0.1219062551,129 /  0     
+Scutiaquinone B,HERG,KCNH2,Q12809,CHEMBL240,Voltage-gated ion channel,0.1219062551,224 /  0     
+Scutiaquinone B,Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0.1219062551,31 /  0     
+Scutiaquinone B,Beta amyloid A4 protein,APP,P05067,CHEMBL2487,Membrane receptor,0.1219062551,17 /  0     
+Scutiaquinone B,Histone deacetylase 1,HDAC1,Q13547,CHEMBL325,Eraser,0.1219062551,63 /  0     
+Scutiaquinone B,HMG-CoA reductase,HMGCR,P04035,CHEMBL402,Oxidoreductase,0.1219062551,77 /  0     
+Scutiaquinone B,Adenosine A1 receptor   (by homology),ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0.1219062551,62 /  0     
+Scutiaquinone B,Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0.1219062551,103 /  0     
+Scutiaquinone B,Estradiol 17-beta-dehydrogenase 2,HSD17B2,P37059,CHEMBL2789,Enzyme,0.1219062551,32 /  0     
+Scutiaquinone B,Kinesin-like protein 1,KIF11,P52732,CHEMBL4581,Other cytosolic protein,0.1219062551,20 /  0     
+Scutiaquinone B,Thymidylate synthase   (by homology),TYMS,P04818,CHEMBL1952,Transferase,0.1219062551,4 /  0     
+Scutiaquinone B,Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.1219062551,36 /  0     
+Scutiaquinone B,Nuclear receptor ROR-gamma,RORC,P51449,CHEMBL1741186,Nuclear receptor,0,5 /  0     
+Scutiaquinone B,Protein farnesyltransferase,FNTA FNTB,P49354 P49356,CHEMBL2094108,Enzyme,0,35 /  0     
+Scutiaquinone B,Tyrosine-protein kinase JAK1,JAK1,P23458,CHEMBL2835,Kinase,0,99 /  0     
+Scutiaquinone B,Tyrosine-protein kinase JAK2,JAK2,O60674,CHEMBL2971,Kinase,0,126 /  0     
+Scutiaquinone B,dUTP pyrophosphatase,DUT,P33316,CHEMBL5203,Enzyme,0,51 /  0     
+Scutiaquinone B,Tyrosine-protein kinase BTK,BTK,Q06187,CHEMBL5251,Kinase,0,17 /  0     
+Scutiaquinone B,Renin,REN,P00797,CHEMBL286,Protease,0,562 /  0     
+Scutiaquinone B,"Nitric oxide synthase, inducible   (by homology)",NOS2,P35228,CHEMBL4481,Enzyme,0,9 /  0     
+Scutiaquinone B,Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,P24385 P11802,CHEMBL1907601,Kinase,0,48 /  0     
+Scutiaquinone B,Cyclin-dependent kinase 2/cyclin E1,CCNE1 CDK2,P24864 P24941,CHEMBL1907605,Kinase,0,34 /  0     
+Scutiaquinone B,ATP-sensitive inward rectifier potassium channel 1,KCNJ1,P48048,CHEMBL1293292,Voltage-gated ion channel,0,17 /  0     
+Scutiaquinone B,EZH2/SUZ12/EED/RBBP7/RBBP4,EZH2,Q15910,CHEMBL2189110,Writer,0,10 /  0     
+Sodwanone R,Cytochrome P450 17A1,CYP17A1,P05093,CHEMBL3522,Cytochrome P450,0.1617657147,55 /  20     
+Sodwanone R,Protein farnesyltransferase,FNTA FNTB,P49354 P49356,CHEMBL2094108,Enzyme,0.1368446807,232 /  10     
+Sodwanone R,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0.1285315776,219 /  50     
+Sodwanone R,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0.1285315776,289 /  35     
+Sodwanone R,Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0.1285315776,109 /  274     
+Sodwanone R,Progesterone receptor,PGR,P06401,CHEMBL208,Nuclear receptor,0.1202257509,117 /  51     
+Sodwanone R,Androgen Receptor,AR,P10275,CHEMBL1871,Nuclear receptor,0.1202257509,190 /  97     
+Sodwanone R,Aldo-keto-reductase family 1 member C3,AKR1C3,P42330,CHEMBL4681,Enzyme,0.1202257509,30 /  1     
+Sodwanone R,Mineralocorticoid receptor,NR3C2,P08235,CHEMBL1994,Nuclear receptor,0.1202257509,54 /  26     
+Sodwanone R,Cytochrome P450 2C19,CYP2C19,P33261,CHEMBL3622,Cytochrome P450,0.1202257509,9 /  7     
+Sodwanone R,Testis-specific androgen-binding protein,SHBG,P04278,CHEMBL3305,Secreted protein,0.1202257509,26 /  33     
+Sodwanone R,Estradiol 17-beta-dehydrogenase 2,HSD17B2,P37059,CHEMBL2789,Enzyme,0.1202257509,71 /  2     
+Sodwanone R,Aldo-keto reductase family 1 member C2,AKR1C2,P52895,CHEMBL5847,Enzyme,0.1202257509,2 /  1     
+Sodwanone R,Aldo-keto reductase family 1 member C1,AKR1C1,Q04828,CHEMBL5905,Enzyme,0.1202257509,1 /  1     
+Sodwanone R,11-beta-hydroxysteroid dehydrogenase 2,HSD11B2,P80365,CHEMBL3746,Enzyme,0.1202257509,16 /  22     
+Sodwanone R,Carboxylesterase 2,CES2,O00748,CHEMBL3180,Enzyme,0.1202257509,3 /  14     
+Sodwanone R,Anandamide amidohydrolase,FAAH,O00519,CHEMBL2243,Enzyme,0.1202257509,77 /  11     
+Sodwanone R,"Nitric oxide synthase, inducible",NOS2,P35228,CHEMBL4481,Enzyme,0.1202257509,29 /  21     
+Sodwanone R,Corticosteroid binding globulin,SERPINA6,P08185,CHEMBL2421,Secreted protein,0.1202257509,6 /  20     
+Sodwanone R,"Thymidine kinase, cytosolic",TK1,P04183,CHEMBL2883,Transferase,0.1202257509,10 /  0     
+Sodwanone R,Adenosine A2b receptor,ADORA2B,P29275,CHEMBL255,Family A G protein-coupled receptor,0.1202257509,46 /  0     
+Sodwanone R,Tyrosine kinase non-receptor protein 2,TNK2,Q07912,CHEMBL4599,Kinase,0.1202257509,13 /  0     
+Sodwanone R,Dopamine transporter,SLC6A3,Q01959,CHEMBL238,Electrochemical transporter,0.1202257509,82 /  2     
+Sodwanone R,Isoprenylcysteine carboxyl methyltransferase,ICMT,O60725,CHEMBL4699,Enzyme,0.1202257509,58 /  0     
+Sodwanone R,Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0.1202257509,79 /  1     
+Sodwanone R,Metabotropic glutamate receptor 5,GRM5,P41594,CHEMBL3227,Family C G protein-coupled receptor,0.1202257509,101 /  0     
+Sodwanone R,Sphingosine 1-phosphate receptor Edg-3,S1PR3,Q99500,CHEMBL3892,Family A G protein-coupled receptor,0.1202257509,35 /  0     
+Sodwanone R,Arachidonate 5-lipoxygenase,ALOX5,P09917,CHEMBL215,Oxidoreductase,0.1202257509,60 /  36     
+Sodwanone R,Voltage-gated potassium channel subunit Kv1.5,KCNA5,P22460,CHEMBL4306,Voltage-gated ion channel,0.1202257509,113 /  0     
+Sodwanone R,Phosphodiesterase 10A,PDE10A,Q9Y233,CHEMBL4409,Phosphodiesterase,0.1202257509,508 /  0     
+Sodwanone R,Protein tyrosine kinase 2 beta,PTK2B,Q14289,CHEMBL5469,Kinase,0.1202257509,12 /  0     
+Sodwanone R,Proteinase-activated receptor 1,F2R,P25116,CHEMBL3974,Family A G protein-coupled receptor,0.1202257509,31 /  0     
+Sodwanone R,Prostaglandin E synthase,PTGES,O14684,CHEMBL5658,Enzyme,0.1202257509,31 /  13     
+Sodwanone R,Butyrylcholinesterase,BCHE,P06276,CHEMBL1914,Hydrolase,0.1202257509,36 /  3     
+Sodwanone R,Cannabinoid receptor 2,CNR2,P34972,CHEMBL253,Family A G protein-coupled receptor,0.1202257509,358 /  5     
+Sodwanone R,Calcitonin gene-related peptide type 1 receptor,CALCRL,Q16602,CHEMBL3798,Family B G protein-coupled receptor,0.1202257509,128 /  0     
+Sodwanone R,c-Jun N-terminal kinase 1,MAPK8,P45983,CHEMBL2276,Kinase,0.1202257509,100 /  0     
+Sodwanone R,Alpha-1a adrenergic receptor,ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0.1202257509,31 /  0     
+Sodwanone R,c-Jun N-terminal kinase 3,MAPK10,P53779,CHEMBL2637,Kinase,0.1202257509,59 /  0     
+Sodwanone R,Melanin-concentrating hormone receptor 1,MCHR1,Q99705,CHEMBL344,Family A G protein-coupled receptor,0.1202257509,39 /  0     
+Sodwanone R,Hormone sensitive lipase,LIPE,Q05469,CHEMBL3590,Enzyme,0.1202257509,12 /  0     
+Sodwanone R,Neuropeptide Y receptor type 5,NPY5R,Q15761,CHEMBL4561,Family A G protein-coupled receptor,0.1202257509,114 /  0     
+Sodwanone R,HMG-CoA reductase   (by homology),HMGCR,P04035,CHEMBL402,Oxidoreductase,0.1202257509,95 /  79     
+Sodwanone R,C-C chemokine receptor type 9,CCR9,P51686,CHEMBL5815,Family A G protein-coupled receptor,0.1202257509,8 /  0     
+Sodwanone R,MAP kinase ERK1,MAPK3,P27361,CHEMBL3385,Kinase,0.1202257509,28 /  1     
+Sodwanone R,C-C chemokine receptor type 1,CCR1,P32246,CHEMBL2413,Family A G protein-coupled receptor,0.1202257509,115 /  0     
+Sodwanone R,Acetyl-CoA carboxylase 2,ACACB,O00763,CHEMBL4829,Ligase,0.1202257509,157 /  0     
+Sodwanone R,Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0.1202257509,41 /  69     
+Sodwanone R,Macrophage colony stimulating factor receptor   (by homology),CSF1R,P07333,CHEMBL1844,Kinase,0.1202257509,92 /  0     
+Sodwanone R,Liver glycogen phosphorylase,PYGL,P06737,CHEMBL2568,Enzyme,0.1202257509,52 /  0     
+Sodwanone R,Interleukin-8 receptor B,CXCR2,P25025,CHEMBL2434,Family A G protein-coupled receptor,0.1202257509,71 /  0     
+Sodwanone R,Cathepsin S,CTSS,P25774,CHEMBL2954,Protease,0.1202257509,207 /  0     
+Sodwanone R,C5a anaphylatoxin chemotactic receptor,C5AR1,P21730,CHEMBL2373,Family A G protein-coupled receptor,0.1202257509,55 /  0     
+Sodwanone R,Platelet activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0.1202257509,79 /  0     
+Sodwanone R,Voltage-gated N-type calcium channel alpha-1B subunit,CACNA1B,Q00975,CHEMBL4478,Voltage-gated ion channel,0.1202257509,5 /  0     
+Sodwanone R,Voltage-gated potassium channel subunit Kv7.1,KCNQ1,P51787,CHEMBL1866,Voltage-gated ion channel,0.1202257509,11 /  0     
+Sodwanone R,Thrombin and coagulation factor X,F10,P00742,CHEMBL244,Protease,0.1202257509,217 /  0     
+Sodwanone R,Melatonin receptor 1A,MTNR1A,P48039,CHEMBL1945,Family A G protein-coupled receptor,0.1202257509,122 /  0     
+Sodwanone R,Melatonin receptor 1B,MTNR1B,P49286,CHEMBL1946,Family A G protein-coupled receptor,0.1202257509,113 /  0     
+Sodwanone R,Epoxide hydratase,EPHX2,P34913,CHEMBL2409,Protease,0.1202257509,173 /  0     
+Sodwanone R,Vasopressin V1a receptor,AVPR1A,P37288,CHEMBL1889,Family A G protein-coupled receptor,0.1202257509,62 /  0     
+Sodwanone R,"Thymidine kinase, mitochondrial",TK2,O00142,CHEMBL4580,Enzyme,0.1202257509,11 /  0     
+Sodwanone R,MAP kinase p38 alpha,MAPK14,Q16539,CHEMBL260,Kinase,0.1202257509,338 /  0     
+Sodwanone R,MAP kinase p38 delta,MAPK13,O15264,CHEMBL2939,Kinase,0.1202257509,11 /  0     
+Sodwanone R,Transforming protein RhoA,RHOA,P61586,CHEMBL6052,Unclassified protein,0.1202257509,2 /  0     
+Sodwanone R,Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,P24941 P78396 P20248,CHEMBL2094128,Other cytosolic protein,0.1202257509,50 /  0     
+Sodwanone R,Monoacylglycerol lipase ABHD6,ABHD6,Q9BV23,CHEMBL2189127,Enzyme,0.1202257509,12 /  0     
+Sodwanone R,Kappa Opioid receptor,OPRK1,P41145,CHEMBL237,Family A G protein-coupled receptor,0.1202257509,197 /  15     
+Sodwanone R,Stem cell growth factor receptor,KIT,P10721,CHEMBL1936,Kinase,0.1202257509,95 /  0     
+Sodwanone R,EZH2/SUZ12/EED/RBBP7/RBBP4,EZH2,Q15910,CHEMBL2189110,Writer,0.1202257509,23 /  0     
+Sodwanone R,Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0.1202257509,367 /  0     
+Sodwanone R,Cholecystokinin B receptor,CCKBR,P32239,CHEMBL298,Family A G protein-coupled receptor,0.1202257509,68 /  0     
+Sodwanone R,Neurokinin 1 receptor,TACR1,P25103,CHEMBL249,Family A G protein-coupled receptor,0.1202257509,89 /  0     
+Sodwanone R,dUTP pyrophosphatase,DUT,P33316,CHEMBL5203,Enzyme,0.1202257509,92 /  0     
+Sodwanone R,UDP-glucuronosyltransferase 2B7,UGT2B7,P16662,CHEMBL4370,Enzyme,0.1202257509,27 /  0     
+Sodwanone R,Protein kinase C eta,PRKCH,P24723,CHEMBL3616,Kinase,0.1202257509,11 /  3     
+Sodwanone R,Dual specificity phosphatase Cdc25A,CDC25A,P30304,CHEMBL3775,Phosphatase,0.1202257509,13 /  20     
+Sodwanone R,Lysosomal Pro-X carboxypeptidase,PRCP,P42785,CHEMBL2335,Protease,0.1202257509,20 /  0     
+Sodwanone R,Oxytocin receptor,OXTR,P30559,CHEMBL2049,Family A G protein-coupled receptor,0.1202257509,84 /  0     
+Sodwanone R,Orexin receptor 2,HCRTR2,O43614,CHEMBL4792,Family A G protein-coupled receptor,0.1202257509,127 /  0     
+Sodwanone R,Orexin receptor 1,HCRTR1,O43613,CHEMBL5113,Family A G protein-coupled receptor,0.1202257509,118 /  0     
+Sodwanone R,Polyadenylate-binding protein 1,PABPC1,P11940,CHEMBL1293286,Unclassified protein,0.1202257509,11 /  0     
+Sodwanone R,Tyrosine-protein kinase receptor FLT3,FLT3,P36888,CHEMBL1974,Kinase,0.1202257509,88 /  0     
+Sodwanone R,Tyrosine-protein kinase TIE-2,TEK,Q02763,CHEMBL4128,Kinase,0.1202257509,60 /  0     
+Sodwanone R,Acetylcholinesterase,ACHE,P22303,CHEMBL220,Hydrolase,0.1202257509,93 /  5     
+Sodwanone R,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0,185 /  0     
+Sodwanone R,Monoglyceride lipase   (by homology),MGLL,Q99685,CHEMBL4191,Enzyme,0,25 /  0     
+Sodwanone R,Period circadian protein homolog 2,PER2,O15055,CHEMBL3751648,Unclassified protein,0,40 /  0     
+Sodwanone R,ALK tyrosine kinase receptor,ALK,Q9UM73,CHEMBL4247,Kinase,0,38 /  0     
+Sodwanone R,C-C chemokine receptor type 8,CCR8,P51685,CHEMBL4596,Family A G protein-coupled receptor,0,4 /  0     
+Sodwanone R,Inosine-5'-monophosphate dehydrogenase 2,IMPDH2,P12268,CHEMBL2002,Oxidoreductase,0,98 /  0     
+Sodwanone R,Geranylgeranyl transferase type I,PGGT1B FNTA,P53609 P49354,CHEMBL2095164,Enzyme,0,42 /  0     
+Sodwanone R,P2X purinoceptor 3,P2RX3,P56373,CHEMBL2998,Ligand-gated ion channel,0,184 /  0     
+Sodwanone R,Cyclin-dependent kinase 1,CDK1,P06493,CHEMBL308,Kinase,0,70 /  0     
+Sodwanone R,Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0,110 /  0     
+Sodwanone R,Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0,42 /  8     
+Sodwanone R,Tyrosine-protein kinase SYK,SYK,P43405,CHEMBL2599,Kinase,0,101 /  0     
+Sodwanone R,Ileal bile acid transporter,SLC10A2,Q12908,CHEMBL2778,Electrochemical transporter,0,72 /  0     
+Sodwanone R,Bombesin receptor subtype-3,BRS3,P32247,CHEMBL4080,Family A G protein-coupled receptor,0,17 /  0     
+Sodwanone R,Heat shock protein beta-1,HSPB1,P04792,CHEMBL5976,Other cytosolic protein,0,3 /  0     
+Sutherlandioside A,Interleukin-2,IL2,P60568,CHEMBL5880,Secreted protein,0.1527574248,0 /  1     
+Sutherlandioside A,Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.0750450385,0 /  7     
+Sutherlandioside A,Platelet activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0.0358982055,0 /  11     
+Sutherlandioside A,Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0.0358982055,0 /  1     
+Sutherlandioside A,Thrombin,F2,P00734,CHEMBL204,Protease,0.0358982055,0 /  3     
+Sutherlandioside A,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0.0358982055,0 /  5     
+Sutherlandioside A,Heat shock protein HSP 90-alpha,HSP90AA1,P07900,CHEMBL3880,Other cytosolic protein,0.0358982055,0 /  1     
+Sutherlandioside A,Protein phosphatase 2C beta,PPM1B,O75688,CHEMBL2845,Phosphatase,0,0 /  1     
+Sutherlandioside A,Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0,0 /  15     
+Sutherlandioside A,Serine/threonine protein phosphatase PP1-gamma catalytic subunit,PPP1CC,P36873,CHEMBL4438,Phosphatase,0,0 /  2     
+Sutherlandioside A,"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,P67775,CHEMBL4703,Phosphatase,0,0 /  2     
+Sutherlandioside A,"Serine/threonine protein phosphatase 2A, 56 kDa regulatory subunit, alpha isoform",PPP2R5A,Q15172,CHEMBL4763,Phosphatase,0,0 /  1     
+Sutherlandioside A,11-beta-hydroxysteroid dehydrogenase 2,HSD11B2,P80365,CHEMBL3746,Enzyme,0,0 /  1     
+Sutherlandioside A,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0,0 /  3     
+Sutherlandioside A,Nuclear receptor ROR-gamma,RORC,P51449,CHEMBL1741186,Nuclear receptor,0,0 /  2     
+Sutherlandioside A,Sodium/potassium-transporting ATPase alpha-1 chain,ATP1A1,P05023,CHEMBL1807,Primary active transporter,0,0 /  1     
+Sutherlandioside A,Niemann-Pick C1-like protein 1,NPC1L1,Q9UHC9,CHEMBL2027,Other membrane protein,0,0 /  3     
+Sutherlandioside A,Zinc finger protein GLI1,GLI1,P08151,CHEMBL5461,Transcription factor,0,0 /  2     
+Sutherlandioside A,Tubulin--tyrosine ligase,TTL,Q8NG68,CHEMBL5549,Enzyme,0,0 /  3     
+Sutherlandioside A,Vascular endothelial growth factor A,VEGFA,P15692,CHEMBL1783,Secreted protein,0,0 /  2     
+Sutherlandioside A,Acidic fibroblast growth factor,FGF1,P05230,CHEMBL2120,Secreted protein,0,0 /  3     
+Sutherlandioside A,Basic fibroblast growth factor,FGF2,P09038,CHEMBL3107,Secreted protein,0,0 /  2     
+Sutherlandioside A,Heparanase,HPSE,Q9Y251,CHEMBL3921,Enzyme,0,0 /  3     
+Sutherlandioside A,Androgen Receptor,AR,P10275,CHEMBL1871,Nuclear receptor,0,0 /  7     
+Sutherlandioside A,Proto-oncogene c-JUN,JUN,P05412,CHEMBL4977,Transcription factor,0,0 /  4     
+Sutherlandioside A,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0,0 /  8     
+Sutherlandioside A,Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0,0 /  1     
+Sutherlandioside A,Cyclin-dependent kinase 1,CDK1,P06493,CHEMBL308,Kinase,0,0 /  1     
+Sutherlandioside A,Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0,0 /  1     
+Sutherlandioside A,Protein kinase C alpha,PRKCA,P17252,CHEMBL299,Kinase,0,0 /  130     
+Sutherlandioside A,Ras-related protein Rap-1A,RAP1A,P62834,CHEMBL1255139,Unclassified protein,0,0 /  1     
+Sutherlandioside A,Phosphodiesterase 4D,PDE4D,Q08499,CHEMBL288,Phosphodiesterase,0,0 /  7     
+Sutherlandioside A,Methionine aminopeptidase 2,METAP2,P50579,CHEMBL3922,Protease,0,0 /  9     
+Sutherlandioside A,DNA polymerase alpha subunit,POLA1,P09884,CHEMBL1828,Transferase,0,0 /  2     
+Sutherlandioside A,Galectin-4,LGALS4,P56470,CHEMBL1671608,Other cytosolic protein,0,0 /  2     
+Sutherlandioside A,Galectin-3,LGALS3,P17931,CHEMBL4531,Other cytosolic protein,0,0 /  2     
+Sutherlandioside A,Galectin-8,LGALS8,O00214,CHEMBL5475,Other cytosolic protein,0,0 /  2     
+Sutherlandioside A,Thromboxane A2 receptor   (by homology),TBXA2R,P21731,CHEMBL2069,Family A G protein-coupled receptor,0,0 /  7     
+Sutherlandioside A,Carboxylesterase 2,CES2,O00748,CHEMBL3180,Enzyme,0,0 /  1     
+Sutherlandioside A,Vitamin D receptor,VDR,P11473,CHEMBL1977,Nuclear receptor,0,0 /  7     
+Sutherlandioside A,Serotonin 2b (5-HT2b) receptor,HTR2B,P41595,CHEMBL1833,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Alpha-2a adrenergic receptor,ADRA2A,P08913,CHEMBL1867,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Adrenergic receptor alpha-2,ADRA2C,P18825,CHEMBL1916,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Alpha-2b adrenergic receptor,ADRA2B,P18089,CHEMBL1942,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0,0 /  15     
+Sutherlandioside A,Dopamine D1 receptor,DRD1,P21728,CHEMBL2056,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Dopamine D2 receptor,DRD2,P14416,CHEMBL217,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Alpha-1d adrenergic receptor,ADRA1D,P25100,CHEMBL223,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Serotonin 2a (5-HT2a) receptor,HTR2A,P28223,CHEMBL224,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Serotonin 2c (5-HT2c) receptor,HTR2C,P28335,CHEMBL225,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Dopamine D3 receptor,DRD3,P35462,CHEMBL234,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Cytochrome P450 2D6,CYP2D6,P10635,CHEMBL289,Cytochrome P450,0,0 /  1     
+Sutherlandioside A,Serotonin 6 (5-HT6) receptor,HTR6,P50406,CHEMBL3371,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Alpha-1a adrenergic receptor   (by homology),ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0,0 /  2     
+Sutherlandioside A,Serotonin 1b (5-HT1b) receptor   (by homology),HTR1B,P28222,CHEMBL1898,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Interleukin-8 receptor A,CXCR1,P25024,CHEMBL4029,Family A G protein-coupled receptor,0,0 /  2     
+Sutherlandioside A,Toll-like receptor (TLR7/TLR9),TLR9,Q9NR96,CHEMBL5804,Toll-like and Il-1 receptors,0,0 /  1     
+Sutherlandioside A,Endothelin receptor ET-A,EDNRA,P25101,CHEMBL252,Family A G protein-coupled receptor,0,0 /  2     
+Sutherlandioside A,LXR-alpha,NR1H3,Q13133,CHEMBL2808,Nuclear receptor,0,0 /  3     
+Sutherlandioside A,LXR-beta,NR1H2,P55055,CHEMBL4093,Nuclear receptor,0,0 /  1     
+Sutherlandioside A,Protein kinase C delta,PRKCD,Q05655,CHEMBL2996,Kinase,0,0 /  24     
+Sutherlandioside A,Protein kinase C beta,PRKCB,P05771,CHEMBL3045,Kinase,0,0 /  6     
+Sutherlandioside A,Protein kinase C epsilon,PRKCE,Q02156,CHEMBL3582,Kinase,0,0 /  23     
+Sutherlandioside A,Protein kinase C eta,PRKCH,P24723,CHEMBL3616,Kinase,0,0 /  4     
+Sutherlandioside A,Protein kinase C theta,PRKCQ,Q04759,CHEMBL3920,Kinase,0,0 /  7     
+Sutherlandioside A,HMG-CoA reductase,HMGCR,P04035,CHEMBL402,Oxidoreductase,0,0 /  67     
+Sutherlandioside A,Squalene synthetase,FDFT1,P37268,CHEMBL3338,Enzyme,0,0 /  15     
+Sutherlandioside A,Isoleucyl-tRNA synthetase,IARS,P41252,CHEMBL3235,Enzyme,0,0 /  1     
+Sutherlandioside A,Protein farnesyltransferase,FNTA FNTB,P49354 P49356,CHEMBL2094108,Enzyme,0,0 /  3     
+Sutherlandioside A,Geranylgeranyl transferase type I,PGGT1B FNTA,P53609 P49354,CHEMBL2095164,Enzyme,0,0 /  1     
+Sutherlandioside A,Motilin receptor,MLNR,O43193,CHEMBL2203,Family A G protein-coupled receptor,0,0 /  7     
+Sutherlandioside A,Cannabinoid receptor 1   (by homology),CNR1,P21554,CHEMBL218,Family A G protein-coupled receptor,0,0 /  3     
+Sutherlandioside A,Autotaxin,ENPP2,Q13822,CHEMBL3691,Enzyme,0,0 /  11     
+Sutherlandioside A,Lysophosphatidic acid receptor Edg-4,LPAR2,Q9HBW0,CHEMBL3724,Family A G protein-coupled receptor,0,0 /  8     
+Sutherlandioside A,Lysophosphatidic acid receptor Edg-7   (by homology),LPAR3,Q9UBY5,CHEMBL3250,Family A G protein-coupled receptor,0,0 /  9     
+Sutherlandioside A,Lysophosphatidic acid receptor Edg-2   (by homology),LPAR1,Q92633,CHEMBL3819,Family A G protein-coupled receptor,0,0 /  7     
+Sutherlandioside A,Mineralocorticoid receptor,NR3C2,P08235,CHEMBL1994,Nuclear receptor,0,0 /  2     
+Sutherlandioside A,Telomerase reverse transcriptase,TERT,O14746,CHEMBL2916,Enzyme,0,0 /  2     
+Sutherlandioside A,Cytochrome P450 17A1,CYP17A1,P05093,CHEMBL3522,Cytochrome P450,0,0 /  5     
+Sutherlandioside A,Hypoxia-inducible factor 1 alpha,HIF1A,Q16665,CHEMBL4261,Transcription factor,0,0 /  2     
+Sutherlandioside A,Maltase-glucoamylase,MGAM,O43451,CHEMBL2074,Hydrolase,0,0 /  2     
+Sutherlandioside A,Sucrase-isomaltase,SI,P14410,CHEMBL2748,Enzyme,0,0 /  2     
+Sutherlandioside A,Norepinephrine transporter,SLC6A2,P23975,CHEMBL222,Electrochemical transporter,0,0 /  2     
+Sutherlandioside A,Neurokinin 2 receptor,TACR2,P21452,CHEMBL2327,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Dopamine transporter,SLC6A3,Q01959,CHEMBL238,Electrochemical transporter,0,0 /  1     
+Sutherlandioside A,Pancreatic alpha-amylase,AMY2A,P04746,CHEMBL2045,Hydrolase,0,0 /  5     
+Sutherlandioside A,AMY1C,AMY1A,P04745,CHEMBL2478,Enzyme,0,0 /  2     
+Sutherlandioside A,Lysosomal alpha-glucosidase,GAA,P10253,CHEMBL2608,Hydrolase,0,0 /  1     
+Sutherlandioside A,Prostanoid EP4 receptor,PTGER4,P35408,CHEMBL1836,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Prostanoid EP2 receptor,PTGER2,P43116,CHEMBL1881,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Prostanoid IP receptor,PTGIR,P43119,CHEMBL1995,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Protein kinase C gamma,PRKCG,P05129,CHEMBL2938,Kinase,0,0 /  3     
+Sutherlandioside A,Cyclooxygenase-2,PTGS2,P35354,CHEMBL230,Oxidoreductase,0,0 /  4     
+Sutherlandioside A,Proteinase-activated receptor 2,F2RL1,P55085,CHEMBL5963,Family A G protein-coupled receptor,0,0 /  1     
+Sutherlandioside A,Vanilloid receptor   (by homology),TRPV1,Q8NER1,CHEMBL4794,Voltage-gated ion channel,0,0 /  3     
+Sutherlandioside A,Ceramide glucosyltransferase,UGCG,Q16739,CHEMBL2063,Transferase,0,0 /  2     
+Sutherlandioside A,Beta-glucocerebrosidase,GBA,P04062,CHEMBL2179,Enzyme,0,0 /  1     
+Sutherlandioside A,Beta-glucosidase,GBA2,Q9HCG7,CHEMBL3761,Enzyme,0,0 /  2     
+Sutherlandioside A,Proto-oncogene vav,VAV1,P15498,CHEMBL3259472,Unclassified protein,0,0 /  1     
+Sutherlandioside A,Transient receptor potential cation channel subfamily V member 4   (by homology),TRPV4,Q9HBA0,CHEMBL3119,Voltage-gated ion channel,0,0 /  4     
+Sutherlandioside C,Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,CHEMBL2094135,Protease,0.0554216108,40 /  14     
+Sutherlandioside C,Dopamine D1 receptor,DRD1,P21728,CHEMBL2056,Family A G protein-coupled receptor,0.0358982055,2 /  1     
+Sutherlandioside C,Dopamine D2 receptor,DRD2,P14416,CHEMBL217,Family A G protein-coupled receptor,0.0358982055,127 /  1     
+Sutherlandioside C,Dopamine D3 receptor,DRD3,P35462,CHEMBL234,Family A G protein-coupled receptor,0.0358982055,112 /  1     
+Sutherlandioside C,Nuclear receptor ROR-gamma,RORC,P51449,CHEMBL1741186,Nuclear receptor,0.0358982055,10 /  2     
+Sutherlandioside C,Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.0358982055,8 /  7     
+Sutherlandioside C,Serotonin 2a (5-HT2a) receptor,HTR2A,P28223,CHEMBL224,Family A G protein-coupled receptor,0.0358982055,122 /  1     
+Sutherlandioside C,Heat shock protein HSP 90-alpha,HSP90AA1,P07900,CHEMBL3880,Other cytosolic protein,0.0358982055,71 /  3     
+Sutherlandioside C,Alpha-1a adrenergic receptor,ADRA1A,P35348,CHEMBL229,Family A G protein-coupled receptor,0.0358982055,60 /  1     
+Sutherlandioside C,Serotonin 1b (5-HT1b) receptor   (by homology),HTR1B,P28222,CHEMBL1898,Family A G protein-coupled receptor,0.0358982055,11 /  1     
+Sutherlandioside C,Vitamin D receptor,VDR,P11473,CHEMBL1977,Nuclear receptor,0.0358982055,74 /  1     
+Sutherlandioside C,Cytochrome P450 2D6,CYP2D6,P10635,CHEMBL289,Cytochrome P450,0.0358982055,1 /  1     
+Sutherlandioside C,Serotonin 6 (5-HT6) receptor,HTR6,P50406,CHEMBL3371,Family A G protein-coupled receptor,0.0358982055,25 /  1     
+Sutherlandioside C,Alpha-1d adrenergic receptor,ADRA1D,P25100,CHEMBL223,Family A G protein-coupled receptor,0.0358982055,46 /  1     
+Sutherlandioside C,Serotonin 2b (5-HT2b) receptor,HTR2B,P41595,CHEMBL1833,Family A G protein-coupled receptor,0.0358982055,8 /  1     
+Sutherlandioside C,Serotonin 2c (5-HT2c) receptor,HTR2C,P28335,CHEMBL225,Family A G protein-coupled receptor,0.0358982055,13 /  1     
+Sutherlandioside C,Acidic fibroblast growth factor,FGF1,P05230,CHEMBL2120,Secreted protein,0.0358982055,0 /  5     
+Sutherlandioside C,Basic fibroblast growth factor,FGF2,P09038,CHEMBL3107,Secreted protein,0.0358982055,0 /  3     
+Sutherlandioside C,Heparanase,HPSE,Q9Y251,CHEMBL3921,Enzyme,0.0358982055,0 /  4     
+Sutherlandioside C,Alpha-2a adrenergic receptor,ADRA2A,P08913,CHEMBL1867,Family A G protein-coupled receptor,0.0358982055,8 /  1     
+Sutherlandioside C,Adrenergic receptor alpha-2,ADRA2C,P18825,CHEMBL1916,Family A G protein-coupled receptor,0.0358982055,8 /  1     
+Sutherlandioside C,Sodium/glucose cotransporter 2,SLC5A2,P31639,CHEMBL3884,Electrochemical transporter,0.0358982055,214 /  0     
+Sutherlandioside C,Sodium/glucose cotransporter 1,SLC5A1,P13866,CHEMBL4979,Electrochemical transporter,0.0358982055,80 /  0     
+Sutherlandioside C,Alpha-2b adrenergic receptor,ADRA2B,P18089,CHEMBL1942,Family A G protein-coupled receptor,0.0358982055,5 /  1     
+Sutherlandioside C,Leukocyte adhesion glycoprotein LFA-1 alpha,ITGAL,P20701,CHEMBL1803,Adhesion,0.0358982055,4 /  0     
+Sutherlandioside C,Cannabinoid receptor 1   (by homology),CNR1,P21554,CHEMBL218,Family A G protein-coupled receptor,0.0358982055,73 /  0     
+Sutherlandioside C,Adenosine kinase,ADK,P55263,CHEMBL3589,Enzyme,0.0358982055,59 /  0     
+Sutherlandioside C,Splicing factor 3B subunit 3,SF3B3,Q15393,CHEMBL1250378,Unclassified protein,0.0358982055,7 /  0     
+Sutherlandioside C,Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,Q02750,CHEMBL3587,Kinase,0.0358982055,30 /  0     
+Sutherlandioside C,Equilibrative nucleoside transporter 1,SLC29A1,Q99808,CHEMBL1997,Electrochemical transporter,0.0358982055,52 /  0     
+Sutherlandioside C,Renin,REN,P00797,CHEMBL286,Protease,0.0358982055,614 /  0     
+Sutherlandioside C,Sphingosine 1-phosphate receptor Edg-1,S1PR1,P21453,CHEMBL4333,Family A G protein-coupled receptor,0.0358982055,86 /  0     
+Sutherlandioside C,Neurokinin 2 receptor,TACR2,P21452,CHEMBL2327,Family A G protein-coupled receptor,0.0358982055,77 /  0     
+Sutherlandioside C,P2X purinoceptor 3,P2RX3,P56373,CHEMBL2998,Ligand-gated ion channel,0.0358982055,68 /  0     
+Sutherlandioside C,Sodium/nucleoside cotransporter 2,SLC28A2,O43868,CHEMBL5780,Electrochemical transporter,0.0358982055,15 /  0     
+Sutherlandioside C,Serine/threonine-protein kinase mTOR,MTOR,P42345,CHEMBL2842,Kinase,0.0358982055,466 /  0     
+Sutherlandioside C,Phosphodiesterase 5A,PDE5A,O76074,CHEMBL1827,Phosphodiesterase,0.0358982055,89 /  0     
+Sutherlandioside C,Protein prune homolog,PRUNE1,Q86TP1,CHEMBL2079850,Enzyme,0.0358982055,2 /  0     
+Sutherlandioside C,Phosphodiesterase 2A,PDE2A,O00408,CHEMBL2652,Phosphodiesterase,0.0358982055,22 /  0     
+Sutherlandioside C,Phosphodiesterase 11A,PDE11A,Q9HCR9,CHEMBL2717,Phosphodiesterase,0.0358982055,4 /  0     
+Sutherlandioside C,Phosphodiesterase 10A,PDE10A,Q9Y233,CHEMBL4409,Phosphodiesterase,0.0358982055,50 /  0     
+Sutherlandioside C,Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.0358982055,27 /  0     
+Sutherlandioside C,Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0.0358982055,29 /  0     
+Sutherlandioside C,Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0.0358982055,139 /  0     
+Sutherlandioside C,Inosine-5'-monophosphate dehydrogenase 1,IMPDH1,P20839,CHEMBL1822,Oxidoreductase,0.0358982055,29 /  0     
+Sutherlandioside C,Inosine-5'-monophosphate dehydrogenase 2,IMPDH2,P12268,CHEMBL2002,Oxidoreductase,0.0358982055,38 /  0     
+Sutherlandioside C,c-Jun N-terminal kinase 1,MAPK8,P45983,CHEMBL2276,Kinase,0.0358982055,70 /  0     
+Sutherlandioside C,c-Jun N-terminal kinase 2,MAPK9,P45984,CHEMBL4179,Kinase,0.0358982055,30 /  0     
+Sutherlandioside C,Glycine receptor subunit alpha-1,GLRA1,P23415,CHEMBL5845,Ligand-gated ion channel,0.0358982055,0 /  11     
+Sutherlandioside C,Glycine receptor subunit alpha-2,GLRA2,P23416,CHEMBL5871,Ligand-gated ion channel,0.0358982055,0 /  8     
+Sutherlandioside C,Sigma opioid receptor,SIGMAR1,Q99720,CHEMBL287,Membrane receptor,0.0358982055,8 /  0     
+Sutherlandioside C,Galectin-4,LGALS4,P56470,CHEMBL1671608,Other cytosolic protein,0.0358982055,0 /  2     
+Sutherlandioside C,Galectin-8,LGALS8,O00214,CHEMBL5475,Other cytosolic protein,0.0358982055,0 /  2     
+Sutherlandioside C,Nerve growth factor receptor Trk-A,NTRK1,P04629,CHEMBL2815,Kinase,0.0358982055,85 /  0     
+Sutherlandioside C,Tyrosine-protein kinase SYK,SYK,P43405,CHEMBL2599,Kinase,0.0358982055,230 /  0     
+Sutherlandioside C,MAP kinase ERK2,MAPK1,P28482,CHEMBL4040,Kinase,0.0358982055,132 /  0     
+Sutherlandioside C,CDK2/Cyclin A,CCNA2 CDK2,P20248 P24941,CHEMBL3038469,Kinase,0.0358982055,42 /  0     
+Sutherlandioside C,Pyruvate dehydrogenase kinase isoform 1,PDK1,Q15118,CHEMBL4766,Kinase,0.0358982055,19 /  0     
+Sutherlandioside C,Coagulation factor IX,F9,P00740,CHEMBL2016,Protease,0.0358982055,8 /  0     
+Sutherlandioside C,Coagulation factor VII,F7,P08709,CHEMBL3991,Protease,0.0358982055,18 /  0     
+Sutherlandioside C,MAP kinase signal-integrating kinase 2,MKNK2,Q9HBH9,CHEMBL4204,Kinase,0.0358982055,35 /  0     
+Sutherlandioside C,Thymidylate synthase   (by homology),TYMS,P04818,CHEMBL1952,Transferase,0.0358982055,113 /  0     
+Sutherlandioside C,ADAM17,ADAM17,P78536,CHEMBL3706,Protease,0.0358982055,31 /  0     
+Sutherlandioside C,Adenosine A1 receptor   (by homology),ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0.0358982055,388 /  0     
+Sutherlandioside C,Adenosine A2a receptor   (by homology),ADORA2A,P29274,CHEMBL251,Family A G protein-coupled receptor,0.0358982055,170 /  0     
+Sutherlandioside C,Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0.0358982055,163 /  0     
+Sutherlandioside C,Mitogen-activated protein kinase kinase kinase 14,MAP3K14,Q99558,CHEMBL5888,Kinase,0.0358982055,179 /  0     
+Sutherlandioside C,Macrophage colony stimulating factor receptor   (by homology),CSF1R,P07333,CHEMBL1844,Kinase,0,76 /  0     
+Sutherlandioside C,PI3-kinase p110-beta subunit,PIK3CB,P42338,CHEMBL3145,Enzyme,0,79 /  0     
+Sutherlandioside C,FK506-binding protein 1A,FKBP1A,P62942,CHEMBL1902,Isomerase,0,84 /  0     
+Sutherlandioside C,Peroxisome proliferator-activated receptor gamma,PPARG,P37231,CHEMBL235,Nuclear receptor,0,73 /  0     
+Sutherlandioside C,Delta opioid receptor   (by homology),OPRD1,P41143,CHEMBL236,Family A G protein-coupled receptor,0,382 /  0     
+Sutherlandioside C,Growth factor receptor-bound protein 2,GRB2,P62993,CHEMBL3663,Other cytosolic protein,0,59 /  0     
+Sutherlandioside C,Calpain 1,CAPN1,P07384,CHEMBL3891,Protease,0,21 /  0     
+Sutherlandioside C,Receptor-type tyrosine-protein phosphatase alpha,PTPRA,P18433,CHEMBL3918,Phosphatase,0,8 /  0     
+Sutherlandioside C,Beta amyloid A4 protein,APP,P05067,CHEMBL2487,Membrane receptor,0,13 /  0     
+Sutherlandioside C,Epidermal growth factor receptor erbB1,EGFR,P00533,CHEMBL203,Kinase,0,146 /  0     
+Sutherlandioside C,Arachidonate 5-lipoxygenase,ALOX5,P09917,CHEMBL215,Oxidoreductase,0,43 /  0     
+Sutherlandioside C,Type-1 angiotensin II receptor   (by homology),AGTR1,P30556,CHEMBL227,Family A G protein-coupled receptor,0,71 /  0     
+Sutherlandioside C,Cathepsin (B and K),CTSB,P07858,CHEMBL4072,Protease,0,22 /  0     
+Sutherlandioside C,Tyrosine-protein kinase receptor TYRO3,TYRO3,Q06418,CHEMBL5314,Kinase,0,33 /  0     
+Sutherlandioside C,Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0,61 /  0     
+Sutherlandioside C,Immunoglobulin epsilon Fc receptor,FCER2,P06734,CHEMBL2940,Membrane receptor,0,5 /  0     
+Sutherlandioside C,Matrix metalloproteinase 1,MMP1,P03956,CHEMBL332,Protease,0,104 /  0     
+Sutherlandioside C,T-cell protein-tyrosine phosphatase,PTPN2,P17706,CHEMBL3807,Phosphatase,0,35 /  0     
+Sutherlandioside C,Leukotriene B4 receptor 1,LTB4R,Q15722,CHEMBL3911,Family A G protein-coupled receptor,0,35 /  0     
+Sutherlandioside C,Ephrin receptor,EPHB4,P54760,CHEMBL5147,Kinase,0,31 /  0     
+Sutherlandioside C,Platelet activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0,4 /  11     
+Sutherlandioside C,ALK tyrosine kinase receptor,ALK,Q9UM73,CHEMBL4247,Kinase,0,55 /  0     
+Sutherlandioside C,Serine/threonine-protein kinase Chk1,CHEK1,O14757,CHEMBL4630,Kinase,0,84 /  0     
+Sutherlandioside C,Proto-oncogene tyrosine-protein kinase ROS,ROS1,P08922,CHEMBL5568,Kinase,0,20 /  0     
+Sutherlandioside C,Cyclin-dependent kinase 1,CDK1,P06493,CHEMBL308,Kinase,0,57 /  1     
+Sutherlandioside C,Anandamide amidohydrolase,FAAH,O00519,CHEMBL2243,Enzyme,0,22 /  0     
+Sutherlandioside C,Peroxisome proliferator-activated receptor alpha,PPARA,Q07869,CHEMBL239,Nuclear receptor,0,20 /  0     
+Sutherlandioside C,Cannabinoid receptor 2   (by homology),CNR2,P34972,CHEMBL253,Family A G protein-coupled receptor,0,76 /  0     
+Sutherlandioside C,Glycogen synthase kinase-3 beta,GSK3B,P49841,CHEMBL262,Kinase,0,33 /  0     
+Sutherlandioside C,Cyclin-dependent kinase 2,CDK2,P24941,CHEMBL301,Kinase,0,63 /  0     
+Sutherlandioside C,Fanconi anemia group F protein,FANCF,Q9NPI8,CHEMBL2157856,Unclassified protein,0,1 /  0     
+Sutherlandioside C,Serine/threonine-protein kinase Sgk1,SGK1,O00141,CHEMBL2343,Kinase,0,7 /  0     
+Sutherlandioside C,Tyrosine-protein kinase JAK1,JAK1,P23458,CHEMBL2835,Kinase,0,72 /  0     
+Sutherlandioside D,11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0.0747179265,204 /  22     
+Sutherlandioside D,Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0.0556479503,63 /  3     
+Sutherlandioside D,11-beta-hydroxysteroid dehydrogenase 2,HSD11B2,P80365,CHEMBL3746,Enzyme,0.0556479503,2 /  10     
+Sutherlandioside D,Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.0556479503,21 /  7     
+Sutherlandioside D,Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0.0556479503,200 /  1     
+Sutherlandioside D,Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0.0556479503,57 /  34     
+Sutherlandioside D,Thrombin,F2,P00734,CHEMBL204,Protease,0.0556479503,140 /  8     
+Sutherlandioside D,Androgen Receptor,AR,P10275,CHEMBL1871,Nuclear receptor,0.0556479503,47 /  71     
+Sutherlandioside D,Programmed cell death 1 ligand 1,CD274,Q9NZQ7,CHEMBL3580522,Unclassified protein,0.0556479503,3 /  0     
+Sutherlandioside D,MAP kinase p38 alpha,MAPK14,Q16539,CHEMBL260,Kinase,0.0556479503,295 /  0     
+Sutherlandioside D,Beta-glucocerebrosidase   (by homology),GBA,P04062,CHEMBL2179,Enzyme,0.0556479503,72 /  0     
+Sutherlandioside D,Adenosine A1 receptor   (by homology),ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0.0556479503,957 /  0     
+Sutherlandioside D,Sodium/glucose cotransporter 2,SLC5A2,P31639,CHEMBL3884,Electrochemical transporter,0.0556479503,848 /  0     
+Sutherlandioside D,Sodium/glucose cotransporter 1,SLC5A1,P13866,CHEMBL4979,Electrochemical transporter,0.0556479503,222 /  0     
+Sutherlandioside D,Phosphodiesterase 5A,PDE5A,O76074,CHEMBL1827,Phosphodiesterase,0.0556479503,180 /  0     
+Sutherlandioside D,Phosphodiesterase 6A,PDE6A,P16499,CHEMBL3878,Phosphodiesterase,0.0556479503,28 /  0     
+Sutherlandioside D,Nerve growth factor receptor Trk-A,NTRK1,P04629,CHEMBL2815,Kinase,0.0556479503,159 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase mTOR,MTOR,P42345,CHEMBL2842,Kinase,0.0556479503,702 /  0     
+Sutherlandioside D,Macrophage colony stimulating factor receptor,CSF1R,P07333,CHEMBL1844,Kinase,0.0556479503,111 /  0     
+Sutherlandioside D,Bcl-2-related protein A1   (by homology),BCL2A1,Q16548,CHEMBL6044,Unclassified protein,0.0556479503,9 /  0     
+Sutherlandioside D,Nuclear receptor ROR-gamma,RORC,P51449,CHEMBL1741186,Nuclear receptor,0.0556479503,19 /  2     
+Sutherlandioside D,Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0.0556479503,329 /  0     
+Sutherlandioside D,Matrix metalloproteinase 1,MMP1,P03956,CHEMBL332,Protease,0.0556479503,232 /  0     
+Sutherlandioside D,Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0.0556479503,303 /  0     
+Sutherlandioside D,Matrix metalloproteinase 14,MMP14,P50281,CHEMBL3869,Protease,0.0556479503,84 /  0     
+Sutherlandioside D,Muscarinic acetylcholine receptor M1,CHRM1,P11229,CHEMBL216,Family A G protein-coupled receptor,0.0556479503,56 /  0     
+Sutherlandioside D,Adenosine kinase,ADK,P55263,CHEMBL3589,Enzyme,0.0556479503,123 /  0     
+Sutherlandioside D,NAD-dependent deacetylase sirtuin 2,SIRT2,Q8IXJ6,CHEMBL4462,Eraser,0.0556479503,7 /  0     
+Sutherlandioside D,Cathepsin L,CTSL,P07711,CHEMBL3837,Protease,0.0556479503,69 /  0     
+Sutherlandioside D,Cathepsin (B and K),CTSB,P07858,CHEMBL4072,Protease,0.0556479503,36 /  0     
+Sutherlandioside D,Sodium/nucleoside cotransporter 2,SLC28A2,O43868,CHEMBL5780,Electrochemical transporter,0.0556479503,21 /  0     
+Sutherlandioside D,Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,Q5S007,CHEMBL1075104,Kinase,0.0556479503,36 /  0     
+Sutherlandioside D,Protein Mdm4,MDM4,O15151,CHEMBL1255126,Unclassified protein,0.0556479503,3 /  0     
+Sutherlandioside D,p53-binding protein Mdm-2,MDM2,Q00987,CHEMBL5023,Other nuclear protein,0.0556479503,92 /  0     
+Sutherlandioside D,Perforin-1,PRF1,P14222,CHEMBL5480,Other ion channel,0.0556479503,15 /  0     
+Sutherlandioside D,Sodium/potassium-transporting ATPase alpha-1 chain,ATP1A1,P05023,CHEMBL1807,Primary active transporter,0.0556479503,0 /  1     
+Sutherlandioside D,c-Jun N-terminal kinase 1,MAPK8,P45983,CHEMBL2276,Kinase,0.0556479503,156 /  0     
+Sutherlandioside D,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,Q16875,CHEMBL2331053,Enzyme,0.0556479503,112 /  0     
+Sutherlandioside D,Phosphodiesterase 3,PDE3A,Q14432,CHEMBL241,Phosphodiesterase,0.0556479503,9 /  0     
+Sutherlandioside D,Phosphodiesterase 3B,PDE3B,Q13370,CHEMBL290,Phosphodiesterase,0.0556479503,6 /  0     
+Sutherlandioside D,PI3-kinase p110-alpha subunit,PIK3CA,P42336,CHEMBL4005,Enzyme,0.0556479503,628 /  0     
+Sutherlandioside D,Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0.0556479503,400 /  1     
+Sutherlandioside D,Estradiol 17-beta-dehydrogenase 1,HSD17B1,P14061,CHEMBL3181,Enzyme,0.0556479503,13 /  0     
+Sutherlandioside D,Growth factor receptor-bound protein 2,GRB2,P62993,CHEMBL3663,Other cytosolic protein,0.0556479503,43 /  0     
+Sutherlandioside D,Pyruvate dehydrogenase kinase isoform 1,PDK1,Q15118,CHEMBL4766,Kinase,0.0556479503,21 /  0     
+Sutherlandioside D,G protein-coupled receptor kinase 7,GRK7,Q8WTQ7,CHEMBL1075133,Kinase,0.0556479503,2 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase 38,STK38,Q15208,CHEMBL1075155,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,Homeodomain-interacting protein kinase 4,HIPK4,Q8NE63,CHEMBL1075167,Kinase,0.0556479503,7 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase/endoribonuclease IRE1,ERN1,O75460,CHEMBL1163101,Enzyme,0.0556479503,10 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase OSR1,OXSR1,O95747,CHEMBL1163104,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,STE20/SPS1-related proline-alanine-rich protein kinase,STK39,Q9UEW8,CHEMBL1163108,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,Mitogen-activated protein kinase kinase kinase 13,MAP3K13,O43283,CHEMBL1163124,Kinase,0.0556479503,2 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase ICK,ICK,Q9UPZ9,CHEMBL1163126,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,Mitogen-activated protein kinase kinase kinase 15,MAP3K15,Q6ZN16,CHEMBL1163127,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,Microtubule-associated serine/threonine-protein kinase 1,MAST1,Q9Y2H9,CHEMBL1163128,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase SBK1,SBK1,Q52WX2,CHEMBL1163129,Kinase,0.0556479503,3 /  0     
+Sutherlandioside D,Hormonally up-regulated neu tumor-associated kinase,HUNK,P57058,CHEMBL1795165,Enzyme,0.0556479503,3 /  0     
+Sutherlandioside D,Tyrosine-protein kinase FYN,FYN,P06241,CHEMBL1841,Kinase,0.0556479503,12 /  0     
+Sutherlandioside D,Tyrosine-protein kinase ABL,ABL1,P00519,CHEMBL1862,Kinase,0.0556479503,103 /  0     
+Sutherlandioside D,Vascular endothelial growth factor receptor 1,FLT1,P17948,CHEMBL1868,Kinase,0.0556479503,38 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase PRP4 homolog,PRPF4B,Q13523,CHEMBL1908382,Enzyme,0.0556479503,1 /  0     
+Sutherlandioside D,SNF-related serine/threonine-protein kinase,SNRK,Q9NRH2,CHEMBL1908384,Enzyme,0.0556479503,1 /  0     
+Sutherlandioside D,Dual serine/threonine and tyrosine protein kinase,DSTYK,Q6XUX3,CHEMBL1908386,Enzyme,0.0556479503,3 /  0     
+Sutherlandioside D,Mitogen-activated protein kinase kinase kinase 12,MAP3K12,Q12852,CHEMBL1908389,Enzyme,0.0556479503,50 /  0     
+Sutherlandioside D,Platelet-derived growth factor receptor beta,PDGFRB,P09619,CHEMBL1913,Kinase,0.0556479503,60 /  0     
+Sutherlandioside D,Stem cell growth factor receptor,KIT,P10721,CHEMBL1936,Kinase,0.0556479503,66 /  0     
+Sutherlandioside D,Vascular endothelial growth factor receptor 3,FLT4,P35916,CHEMBL1955,Kinase,0.0556479503,24 /  0     
+Sutherlandioside D,Tyrosine-protein kinase receptor FLT3,FLT3,P36888,CHEMBL1974,Kinase,0.0556479503,116 /  0     
+Sutherlandioside D,Insulin receptor,INSR,P06213,CHEMBL1981,Kinase,0.0556479503,42 /  0     
+Sutherlandioside D,Platelet-derived growth factor receptor alpha,PDGFRA,P16234,CHEMBL2007,Kinase,0.0556479503,9 /  0     
+Sutherlandioside D,Epidermal growth factor receptor erbB1,EGFR,P00533,CHEMBL203,Kinase,0.0556479503,363 /  0     
+Sutherlandioside D,Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET,RET,P07949,CHEMBL2041,Kinase,0.0556479503,29 /  0     
+Sutherlandioside D,Tyrosine-protein kinase YES,YES1,P07947,CHEMBL2073,Kinase,0.0556479503,12 /  0     
+Sutherlandioside D,Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,O96020 P24941 P24864,CHEMBL2094126,Other cytosolic protein,0.0556479503,47 /  0     
+Sutherlandioside D,Dual specificity mitogen-activated protein kinase kinase 3,MAP2K3,P46734,CHEMBL2109,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,"AMP-activated protein kinase, alpha-2 subunit",PRKAA2,P54646,CHEMBL2116,Kinase,0.0556479503,2 /  0     
+Sutherlandioside D,Tyrosine-protein kinase JAK3,JAK3,P52333,CHEMBL2148,Kinase,0.0556479503,109 /  0     
+Sutherlandioside D,Dual specificity mitogen-activated protein kinase kinase 6,MAP2K6,P52564,CHEMBL2171,Kinase,0.0556479503,2 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase Aurora-B,AURKB,Q96GD4,CHEMBL2185,Kinase,0.0556479503,132 /  0     
+Sutherlandioside D,Tyrosine-protein kinase BLK,BLK,P51451,CHEMBL2250,Kinase,0.0556479503,7 /  0     
+Sutherlandioside D,Dual-specificity tyrosine-phosphorylation regulated kinase 1A,DYRK1A,Q13627,CHEMBL2292,Kinase,0.0556479503,19 /  0     
+Sutherlandioside D,Ribosomal protein S6 kinase alpha 3,RPS6KA3,P51812,CHEMBL2345,Kinase,0.0556479503,8 /  0     
+Sutherlandioside D,Phosphorylase kinase gamma subunit 2,PHKG2,P15735,CHEMBL2349,Kinase,0.0556479503,3 /  0     
+Sutherlandioside D,Casein kinase I gamma 1,CSNK1G1,Q9HCP0,CHEMBL2426,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,"Myosin light chain kinase, smooth muscle",MYLK,Q15746,CHEMBL2428,Kinase,0.0556479503,2 /  0     
+Sutherlandioside D,Death-associated protein kinase 3,DAPK3,O43293,CHEMBL2468,Kinase,0.0556479503,5 /  0     
+Sutherlandioside D,CaM kinase I alpha,CAMK1,Q14012,CHEMBL2493,Kinase,0.0556479503,3 /  0     
+Sutherlandioside D,CaM kinase IV,CAMK4,Q16566,CHEMBL2494,Kinase,0.0556479503,2 /  0     
+Sutherlandioside D,Serine/threonine-protein kinase Chk2,CHEK2,O96017,CHEMBL2527,Kinase,0.0556479503,13 /  0     
+Sutherlandioside D,3-phosphoinositide dependent protein kinase-1,PDPK1,O15530,CHEMBL2534,Kinase,0.0556479503,66 /  0     
+Sutherlandioside D,Casein kinase I gamma 2,CSNK1G2,P78368,CHEMBL2543,Kinase,0.0556479503,1 /  0     
+Sutherlandioside D,Ribosomal protein S6 kinase alpha 1,RPS6KA1,Q15418,CHEMBL2553,Kinase,0.0556479503,18 /  0     
+Sutherlandioside D,Death-associated protein kinase 1,DAPK1,P53355,CHEMBL2558,Kinase,0.0556479503,3 /  0     
+Sutherlandioside D,Tyrosine-protein kinase LCK,LCK,P06239,CHEMBL258,Kinase,0.0556479503,89 /  0     
+Sutherlandioside D,Protein kinase C (PKC),PRKD3,O94806,CHEMBL2595,Kinase,0.0556479503,4 /  0     
+Sutherlandioside D,c-Jun N-terminal kinase 3,MAPK10,P53779,CHEMBL2637,Kinase,0.0556479503,66 /  0     
+Sutherlandioside D,Tyrosine-protein kinase SRC,SRC,P12931,CHEMBL267,Kinase,0.0556479503,171 /  0     
+Sutherlandioside D,Focal adhesion kinase 1,PTK2,Q05397,CHEMBL2695,Kinase,0.0556479503,32 /  0     
+Sutherlandioside D,Mitogen-activated protein kinase kinase kinase 11,MAP3K11,Q16584,CHEMBL2708,Kinase,0.0556479503,6 /  0     
+Sutherlandioside D,Fibroblast growth factor receptor 3,FGFR3,P22607,CHEMBL2742,Kinase,0.0556479503,13 /  0     
